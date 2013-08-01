@@ -1,0 +1,418 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 00:38:56
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 00:38:56 GET /index.htm - - 208.80.194.44 HTTP/1.0 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+{75AE5209-9384-0341-FA80-B6BE45F4F81B};+.NET+CLR+1.1.4322) - 200 0 16283
+2008-09-17 00:49:01 GET /robots.txt - - 74.6.22.119 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - 404 2 1791
+2008-09-17 00:49:01 GET /takeaction.htm - - 74.6.22.119 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - 200 0 9169
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 01:20:49
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 01:20:49 GET /index.htm - - 66.150.153.167 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+YPC+3.2.0;+SpamBlockerUtility+4.8.4;+yplus+5.1.04b) - 200 0 16268
+2008-09-17 01:25:51 GET /index.htm - - 208.80.194.37 HTTP/1.0 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+SIMBAR={3F643989-C726-43a8-9574-AF1F34D57FCB}) - 200 0 16287
+2008-09-17 01:26:27 GET /quitsmoking.htm - - 208.36.144.6 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - 200 0 7824
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 03:04:55
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 03:04:55 GET /robots.txt - - 38.108.180.75 HTTP/1.1 Mozilla/5.0+(compatible;+ScoutJet;++http://www.scoutjet.com/) - 404 2 1791
+2008-09-17 03:05:10 GET /provenresults.htm - - 38.108.180.75 HTTP/1.1 Mozilla/5.0+(compatible;+ScoutJet;++http://www.scoutjet.com/) - 200 0 2427
+2008-09-17 03:05:36 GET /annepenman.htm - - 38.108.180.75 HTTP/1.1 Mozilla/5.0+(compatible;+ScoutJet;++http://www.scoutjet.com/) - 200 0 3080
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 04:03:51
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 04:03:51 GET /backupsupport.htm - - 64.1.215.162 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - 200 0 7398
+2008-09-17 04:06:22 GET /guidanceadvice.htm - - 64.1.215.162 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - 200 0 7448
+2008-09-17 04:09:43 GET /robots.txt - - 65.55.234.168 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 404 2 1791
+2008-09-17 04:09:43 GET /images/indexlogo_r10_c1.jpg - - 65.55.234.168 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 0 1101
+2008-09-17 04:23:09 GET /robots.txt - - 65.55.234.165 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 404 2 1791
+2008-09-17 04:23:10 GET /images/indexlogo_r8_c5.jpg - - 65.55.234.165 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 0 955
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 04:44:56
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 04:44:56 GET /robots.txt - - 65.55.234.167 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 404 2 1791
+2008-09-17 04:44:56 GET /images/indexlogo_r6_c6.jpg - - 65.55.234.167 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 0 1464
+2008-09-17 04:44:56 GET /images/indexlogo_r2_c1.jpg - - 65.55.234.167 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 0 2344
+2008-09-17 04:45:40 GET /images/indexlogo_r3_c1.jpg - - 65.55.234.168 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 0 4044
+2008-09-17 04:45:41 GET /images/topbar5.gif - - 65.55.234.168 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 0 21293
+2008-09-17 04:57:19 GET /robots.txt - - 65.55.234.166 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 404 2 1791
+2008-09-17 04:57:19 GET /images/indexlogo_r6_c1.jpg - - 65.55.234.166 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 0 1004
+2008-09-17 04:58:39 GET /images/indexlogo_r8_c1.jpg - - 65.55.234.168 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 0 586
+2008-09-17 04:58:39 GET /images/indexlogo_r12_c1.jpg - - 65.55.234.168 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 0 600
+2008-09-17 04:58:40 GET /images/indexlogo_r4_c10.jpg - - 65.55.234.168 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 0 1445
+2008-09-17 05:00:02 GET /robots.txt - - 65.55.234.164 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 404 2 1791
+2008-09-17 05:00:02 GET /images/indexlogo_r5_c1.jpg - - 65.55.234.164 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 0 5274
+2008-09-17 05:05:57 GET /images/indexlogo_r2_c10.jpg - - 65.55.234.164 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 0 2120
+2008-09-17 05:09:18 GET /robots.txt - - 65.55.234.169 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 404 2 1791
+2008-09-17 05:09:18 GET /images/indexlogo_r2_c4.jpg - - 65.55.234.169 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 0 14326
+2008-09-17 05:12:09 GET /robots.txt - - 66.249.71.130 HTTP/1.1 Googlebot-Image/1.0 - 404 2 1772
+2008-09-17 05:12:09 GET /images/indexlogo_r5_c1.jpg - - 66.249.71.130 HTTP/1.1 Googlebot-Image/1.0 - 304 0 191
+2008-09-17 05:17:13 GET /images/indexlogo_r7_c1.jpg - - 65.55.234.166 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 64 0
+2008-09-17 05:17:19 GET /images/indexlogo_r1_c1.jpg - - 65.55.234.168 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 0 9522
+2008-09-17 05:17:55 GET /loseweight.htm - - 208.36.144.6 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - 200 0 9254
+2008-09-17 05:18:52 GET /lasertherapy.htm - - 64.1.215.162 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - 200 0 8075
+2008-09-17 05:21:46 GET /images/indexlogo_r13_c1.jpg - - 65.55.234.169 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 0 874
+2008-09-17 05:24:29 GET /images/indexlogo_r11_c1.jpg - - 65.55.234.167 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 0 941
+2008-09-17 05:36:34 GET /images/indexlogo_r15_c8.jpg - - 65.55.234.167 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 0 766
+2008-09-17 05:36:40 GET /images/indexlogo_r9_c1.jpg - - 65.55.234.169 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 0 804
+2008-09-17 05:42:36 GET /images/indexlogo_r14_c1.jpg - - 65.55.234.166 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 0 1085
+2008-09-17 05:43:08 GET /images/indexlogo_r5_c11.jpg - - 65.55.234.166 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 0 1120
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 06:00:41
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 06:00:41 GET /Ira/HDR/bg.jpg - - 69.244.53.38 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 200 0 447451
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 06:17:21
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 06:17:20 GET /images/indexlogo_r2_c10.jpg - - 66.249.71.131 HTTP/1.1 Googlebot-Image/1.0 - 304 0 191
+2008-09-17 06:23:08 GET /images/indexlogo_r12_c5.jpg - - 65.55.234.165 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 0 979
+2008-09-17 06:23:08 GET /images/indexlogo_r4_c9.jpg - - 65.55.234.165 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 0 3586
+2008-09-17 06:23:09 GET /images/indexlogo_r4_c4.jpg - - 65.55.234.165 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 0 2644
+2008-09-17 06:23:09 GET /images/indexlogo_r15_c1.jpg - - 65.55.234.165 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 64 0
+2008-09-17 06:23:11 GET /images/indexlogo_r5_c7.jpg - - 65.55.234.165 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 200 0 4617
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 07:02:28
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 07:02:28 GET /index.htm - - 208.96.54.71 HTTP/1.1 Mozilla/5.0+(compatible;+discobot/1.0;++http://discoveryengine.com/discobot.html) - 200 0 16287
+2008-09-17 07:06:40 GET /Ira/HDR/bg.jpg - - 79.31.184.220 HTTP/1.1 Mozilla/5.0+(000000000;+0;+000+000+00+0+000000;+00;+00000000000)+00000000000000+0000000000000000 - 200 0 447451
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 08:36:55
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 08:36:55 GET /Ira/HDR/bg.jpg - - 69.244.53.38 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 200 0 447451
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 09:17:19
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 09:17:19 GET /annepenman.htm - - 86.155.106.171 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727) http://www.google.com/search?q=ann+penman+glasgow&hl=en&rls=com.microsoft%3Aen-us%3AIE-SearchBox&rlz=1I7GGLR&sa=2 200 0 3061
+2008-09-17 09:17:19 GET /images/topbar5.gif - - 86.155.106.171 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727) http://www.aplttucson.com/annepenman.htm 200 0 21274
+2008-09-17 09:17:20 GET /images/annepenman1.jpg - - 86.155.106.171 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727) http://www.aplttucson.com/annepenman.htm 200 0 36080
+2008-09-17 09:17:20 GET /favicon.ico - - 86.155.106.171 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727) - 404 2 1772
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 09:45:03
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 09:45:03 GET /index.htm - - 208.80.194.37 HTTP/1.0 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Hotbar+4.5.0.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727) - 200 0 16288
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 10:01:45
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 10:01:45 GET /Ira/HDR/bg.jpg - - 84.119.63.212 HTTP/1.0 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+InfoPath.2) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 200 0 447475
+2008-09-17 10:06:11 GET /Ira/HDR/bg.jpg - - 65.35.145.103 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+IEMB3;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648;+IEMB3) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 200 0 447451
+2008-09-17 10:08:27 GET /Ira/HDR/bg.jpg - - 65.35.145.103 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+IEMB3;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648;+IEMB3) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 304 0 190
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 10:42:13
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 10:42:13 GET /loseweight.htm - - 64.1.215.162 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - 200 0 9254
+2008-09-17 10:51:06 GET /Ira/HDR/bg.jpg - - 69.221.149.30 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://profileedit.myspace.com/Modules/Profiles/Handlers/UserStyle.ashx?friendId=383976707&styleid=23391 200 0 447451
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 11:14:08
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 11:14:08 GET /Ira/HDR/bg.jpg - - 67.176.124.200 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) - 200 0 447451
+2008-09-17 11:19:34 GET /Ira/HDR/bg.jpg - - 69.21.106.188 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 200 0 447451
+2008-09-17 11:20:22 GET /robots.txt - - 74.6.22.119 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - 404 2 1791
+2008-09-17 11:20:22 GET /backupsupport.htm - - 74.6.22.119 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - 200 0 7398
+2008-09-17 11:31:46 GET /backupsupport.htm - - 208.36.144.6 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - 200 0 7398
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 12:20:31
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 12:20:31 GET /Ira/HDR/bg.jpg - - 70.190.98.30 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SV1;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322;+InfoPath.2;+.NET+CLR+3.5.21022;+Zune+2.5) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 200 0 447451
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 13:22:12
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 13:22:12 GET /Ira/HDR/bg.jpg - - 24.220.178.29 HTTP/1.0 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322;+InfoPath.2) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 200 0 447475
+2008-09-17 13:28:56 GET /Ira/HDR/bg.jpg - - 68.109.126.106 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.8.1.4)+Gecko/20070515+Firefox/2.0.0.4 http://profileedit.myspace.com/Modules/Profiles/Handlers/UserStyle.ashx?friendId=383976707&styleid=23391 200 0 447451
+2008-09-17 13:29:34 GET /Ira/HDR/bg.jpg - - 216.23.91.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 200 0 447451
+2008-09-17 13:40:09 GET /Ira/HDR/bg.jpg - - 12.202.41.115 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+FunWebProducts) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 200 0 447451
+2008-09-17 13:47:42 GET /Ira/HDR/bg.jpg - - 12.202.41.115 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+FunWebProducts) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 304 0 190
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 14:12:20
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 14:12:20 GET /takeaction.htm - - 208.36.144.6 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - 200 0 9169
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 14:34:20
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 14:34:20 GET /index.htm - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://smokefreetucson.reachlocal.com/coupon/?scid=205352&cid=216021&tc=08091707323155182&kw=987991&dynamic_proxy=1&primary_serv=www.smokefreetucson.com&se_refer=http%253A%252F%252Fsearch.yahoo.com%252Fsearch%253Fei%253Dutf-8%2526fr%253Dslv8-msgr%2526p%253Dann%252520penman%252520laser%252520center%2526type%253D 200 0 3416
+2008-09-17 14:34:20 GET /images/spacer.gif - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 269
+2008-09-17 14:34:20 GET /images/topbar5.gif - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 21274
+2008-09-17 14:34:20 GET /images/indexlogo_r2_c4.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 14307
+2008-09-17 14:34:20 GET /images/indexlogo_r1_c1.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 9503
+2008-09-17 14:34:20 GET /images/indexlogo_r2_c1.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 2325
+2008-09-17 14:34:20 GET /images/indexlogo_r2_c10.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 2101
+2008-09-17 14:34:20 GET /images/indexlogo_r3_c1.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 4025
+2008-09-17 14:34:20 GET /images/indexlogo_r4_c4.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 2625
+2008-09-17 14:34:20 GET /images/indexlogo_r4_c9.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 3567
+2008-09-17 14:34:20 GET /images/indexlogo_r4_c10.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 1426
+2008-09-17 14:34:20 GET /images/indexlogo_r5_c7.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 4598
+2008-09-17 14:34:20 GET /images/indexlogo_r5_c1.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 5255
+2008-09-17 14:34:20 GET /images/indexlogo_r5_c11.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 1101
+2008-09-17 14:34:20 GET /images/indexlogo_r6_c1.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 985
+2008-09-17 14:34:21 GET /images/indexlogo_r6_c6.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 1445
+2008-09-17 14:34:21 GET /images/indexlogo_r7_c1.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 897
+2008-09-17 14:34:21 GET /images/indexlogo_r8_c1.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 567
+2008-09-17 14:34:21 GET /images/indexlogo_r8_c5.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 936
+2008-09-17 14:34:21 GET /images/indexlogo_r9_c1.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 785
+2008-09-17 14:34:21 GET /images/indexlogo_r10_c1.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 1082
+2008-09-17 14:34:21 GET /images/indexlogo_r11_c1.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 922
+2008-09-17 14:34:21 GET /images/indexlogo_r12_c5.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 960
+2008-09-17 14:34:21 GET /images/indexlogo_r12_c1.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 581
+2008-09-17 14:34:21 GET /images/indexlogo_r15_c1.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 867
+2008-09-17 14:34:21 GET /images/indexlogo_r14_c1.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 1066
+2008-09-17 14:34:21 GET /images/indexlogo_r13_c1.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 855
+2008-09-17 14:34:21 GET /favicon.ico - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) - 404 2 1772
+2008-09-17 14:34:21 GET /images/indexlogo_r15_c8.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 747
+2008-09-17 14:34:22 GET /favicon.ico - - 71.215.124.176 HTTP/1.1 Mozilla/5.0+(compatible;+Google+Desktop) - 404 2 1772
+2008-09-17 14:34:42 GET /loseweight.htm - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 200 0 2663
+2008-09-17 14:34:42 GET /images/weighttreatement.jpg - - 71.215.124.176 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/loseweight.htm 200 0 17494
+2008-09-17 14:37:35 GET /annepenman.htm - - 64.1.215.162 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - 200 0 9719
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 14:59:25
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 14:59:25 GET /lasertherapy.htm - - 208.36.144.6 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - 200 0 8075
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 15:26:45
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 15:26:45 GET /quitsmoking.htm - - 64.1.215.162 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - 200 0 7824
+2008-09-17 15:34:55 GET /Ira/HDR/bg.jpg - - 206.124.12.101 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.8.1.16)+Gecko/20080702+Firefox/2.0.0.16 http://profileedit.myspace.com/Modules/Profiles/Handlers/UserStyle.ashx?friendId=383976707&styleid=23391 200 0 447451
+2008-09-17 15:44:49 GET /Ira/HDR/bg.jpg - - 96.247.159.154 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 200 0 447451
+2008-09-17 15:45:45 GET /Ira/HDR/bg.jpg - - 96.247.159.154 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 200 0 447451
+2008-09-17 15:46:55 GET /Ira/HDR/bg.jpg - - 72.186.142.128 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.8.1.16)+Gecko/20080702+Firefox/2.0.0.16 http://profileedit.myspace.com/Modules/Profiles/Handlers/UserStyle.ashx?friendId=383976707&styleid=23391 200 0 447451
+2008-09-17 15:52:29 GET /Ira/HDR/bg.jpg - - 76.25.47.216 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 200 0 447451
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 16:29:18
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 16:29:18 GET /annepenman.htm - - 216.64.188.162 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.google.com/search?hl=en&safe=off&sa=X&oi=spell&resnum=0&ct=result&cd=1&q=Anne+Penman+laser+therapy+Tucson&spell=1 200 0 3061
+2008-09-17 16:29:18 GET /images/annepenman1.jpg - - 216.64.188.162 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/annepenman.htm 200 0 36080
+2008-09-17 16:29:18 GET /images/topbar5.gif - - 216.64.188.162 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/annepenman.htm 200 0 21274
+2008-09-17 16:30:44 GET /lasertherapy.htm - - 216.64.188.162 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/annepenman.htm 200 0 2290
+2008-09-17 16:30:44 GET /images/laserlady.jpg - - 216.64.188.162 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/lasertherapy.htm 200 0 6311
+2008-09-17 16:32:30 GET /guidanceadvice.htm - - 216.64.188.162 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/lasertherapy.htm 200 0 2091
+2008-09-17 16:32:33 GET /loseweight.htm - - 216.64.188.162 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/guidanceadvice.htm 200 0 2663
+2008-09-17 16:32:33 GET /images/weighttreatement.jpg - - 216.64.188.162 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/loseweight.htm 200 0 17494
+2008-09-17 16:35:03 GET /Ira/HDR/bg.jpg - - 70.238.39.90 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2;+.NET+CLR+1.1.4322) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 200 0 447451
+2008-09-17 16:37:02 GET /index.htm - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.google.com/search?hl=en&q=i+quit+in+tucson&btnG=Google+Search&aq=f&oq= 200 0 16268
+2008-09-17 16:37:02 GET /images/topbar5.gif - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 21274
+2008-09-17 16:37:02 GET /images/spacer.gif - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 269
+2008-09-17 16:37:02 GET /images/indexlogo_r2_c1.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 2325
+2008-09-17 16:37:02 GET /images/indexlogo_r1_c1.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 9503
+2008-09-17 16:37:02 GET /images/indexlogo_r2_c10.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 2101
+2008-09-17 16:37:02 GET /images/indexlogo_r2_c4.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 14307
+2008-09-17 16:37:02 GET /images/indexlogo_r4_c4.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 2625
+2008-09-17 16:37:02 GET /images/indexlogo_r3_c1.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 4025
+2008-09-17 16:37:02 GET /images/indexlogo_r4_c9.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 3567
+2008-09-17 16:37:02 GET /images/indexlogo_r4_c10.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 1426
+2008-09-17 16:37:02 GET /images/indexlogo_r5_c1.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 5255
+2008-09-17 16:37:02 GET /images/indexlogo_r5_c7.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 4598
+2008-09-17 16:37:02 GET /images/indexlogo_r6_c1.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 985
+2008-09-17 16:37:02 GET /images/indexlogo_r5_c11.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 1101
+2008-09-17 16:37:02 GET /images/indexlogo_r7_c1.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 897
+2008-09-17 16:37:02 GET /images/indexlogo_r8_c1.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 567
+2008-09-17 16:37:02 GET /images/indexlogo_r6_c6.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 1445
+2008-09-17 16:37:02 GET /images/indexlogo_r8_c5.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 936
+2008-09-17 16:37:02 GET /images/indexlogo_r9_c1.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 785
+2008-09-17 16:37:02 GET /images/indexlogo_r10_c1.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 1082
+2008-09-17 16:37:02 GET /images/indexlogo_r11_c1.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 922
+2008-09-17 16:37:02 GET /images/indexlogo_r12_c1.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 581
+2008-09-17 16:37:02 GET /images/indexlogo_r12_c5.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 960
+2008-09-17 16:37:02 GET /images/indexlogo_r13_c1.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 855
+2008-09-17 16:37:02 GET /images/indexlogo_r14_c1.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 1066
+2008-09-17 16:37:02 GET /images/indexlogo_r15_c1.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 867
+2008-09-17 16:37:02 GET /favicon.ico - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) - 404 2 1772
+2008-09-17 16:37:02 GET /images/indexlogo_r15_c8.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 747
+2008-09-17 16:37:15 GET /lasertherapy.htm - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/ 200 0 8056
+2008-09-17 16:37:15 GET /images/laserlady.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/lasertherapy.htm 200 0 6311
+2008-09-17 16:37:33 GET /quitsmoking.htm - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/lasertherapy.htm 200 0 7805
+2008-09-17 16:37:33 GET /images/nosmokingsign.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/quitsmoking.htm 200 0 18059
+2008-09-17 16:37:37 GET /loseweight.htm - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/quitsmoking.htm 200 0 9235
+2008-09-17 16:37:37 GET /images/weighttreatement.jpg - - 67.128.198.34 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+InfoPath.1) http://www.aplttucson.com/loseweight.htm 200 0 17494
+2008-09-17 16:47:09 GET /Ira/HDR/bg.jpg - - 76.88.73.234 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://profileedit.myspace.com/Modules/Profiles/Handlers/UserStyle.ashx?friendId=383976707&styleid=23391 200 0 447451
+2008-09-17 16:49:55 GET /provenresults.htm - - 208.36.144.6 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - 200 0 8444
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 17:11:22
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 17:11:22 GET /Ira/HDR/bg.jpg - - 69.244.53.38 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 200 0 447451
+2008-09-17 17:14:49 GET /Ira/HDR/bg.jpg - - 12.108.98.134 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://profileedit.myspace.com/Modules/Profiles/Handlers/UserStyle.ashx?friendId=383976707&styleid=23391 200 64 447451
+2008-09-17 17:18:39 GET /favicon.ico - - 71.220.141.164 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;++MSN+9.0;MSN+9.1;+MSNbQ002;+MSNmen-us;+MSNcOTH) - 404 2 1772
+2008-09-17 17:19:19 GET /favicon.ico - - 71.220.141.164 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;++MSN+9.0;MSN+9.1;+MSNbQ002;+MSNmen-us;+MSNcOTH) - 404 2 1772
+2008-09-17 17:19:51 GET /favicon.ico - - 71.220.141.164 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;++MSN+9.0;MSN+9.1;+MSNbQ002;+MSNmen-us;+MSNcOTH) - 404 2 1772
+2008-09-17 17:20:20 GET /favicon.ico - - 71.220.141.164 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;++MSN+9.0;MSN+9.1;+MSNbQ002;+MSNmen-us;+MSNcOTH) - 404 2 1772
+2008-09-17 17:20:32 GET /favicon.ico - - 71.220.141.164 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;++MSN+9.0;MSN+9.1;+MSNbQ002;+MSNmen-us;+MSNcOTH) - 404 2 1772
+2008-09-17 17:25:02 GET /Ira/HDR/bg.jpg - - 67.161.144.222 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.8.1.16)+Gecko/20080702+Firefox/2.0.0.16 http://profileedit.myspace.com/Modules/Profiles/Handlers/UserStyle.ashx?friendId=383976707&styleid=23391 200 0 447451
+2008-09-17 17:34:27 GET /Ira/HDR/bg.jpg - - 128.170.42.216 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://profileedit.myspace.com/Modules/Profiles/Handlers/UserStyle.ashx?friendId=383976707&styleid=23391 200 0 447451
+2008-09-17 17:43:31 GET /index.htm - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://aplttucson.reachlocal.com/coupon/?scid=205353&cid=216021&tc=08091710393504771&kw=628537:22774&dynamic_proxy=1&primary_serv=www.smokefreetucson.com&se_refer=http%253A%252F%252Fsearch.comcast.net%252F%253Fq%253Dstop%252Bsmoking%252Btucson%2526cat%253DWeb%2526con%253Dbetaa 200 0 3416
+2008-09-17 17:43:31 GET /images/topbar5.gif - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 21274
+2008-09-17 17:43:31 GET /images/spacer.gif - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 269
+2008-09-17 17:43:31 GET /images/indexlogo_r1_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 9503
+2008-09-17 17:43:31 GET /images/indexlogo_r2_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 2325
+2008-09-17 17:43:31 GET /images/indexlogo_r2_c4.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 14307
+2008-09-17 17:43:31 GET /favicon.ico - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) - 404 64 0
+2008-09-17 17:43:31 GET /images/indexlogo_r2_c10.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 2101
+2008-09-17 17:43:31 GET /images/indexlogo_r4_c4.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 2625
+2008-09-17 17:43:31 GET /images/indexlogo_r3_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 4025
+2008-09-17 17:43:31 GET /images/indexlogo_r4_c9.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 3567
+2008-09-17 17:43:31 GET /images/indexlogo_r4_c10.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 1426
+2008-09-17 17:43:31 GET /images/indexlogo_r5_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 5255
+2008-09-17 17:43:31 GET /images/indexlogo_r5_c7.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 4598
+2008-09-17 17:43:31 GET /images/indexlogo_r5_c11.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 1101
+2008-09-17 17:43:31 GET /images/indexlogo_r6_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 985
+2008-09-17 17:43:31 GET /images/indexlogo_r7_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 897
+2008-09-17 17:43:31 GET /images/indexlogo_r6_c6.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 1445
+2008-09-17 17:43:31 GET /images/indexlogo_r8_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 567
+2008-09-17 17:43:31 GET /images/indexlogo_r8_c5.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 936
+2008-09-17 17:43:31 GET /images/indexlogo_r9_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 785
+2008-09-17 17:43:31 GET /images/indexlogo_r10_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 1082
+2008-09-17 17:43:31 GET /images/indexlogo_r11_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 922
+2008-09-17 17:43:31 GET /images/indexlogo_r12_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 581
+2008-09-17 17:43:31 GET /images/indexlogo_r12_c5.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 960
+2008-09-17 17:43:31 GET /images/indexlogo_r13_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 855
+2008-09-17 17:43:31 GET /images/indexlogo_r14_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 1066
+2008-09-17 17:43:32 GET /images/indexlogo_r15_c8.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 747
+2008-09-17 17:43:32 GET /images/indexlogo_r15_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.smokefreetucson.com/ 200 0 867
+2008-09-17 17:43:51 GET /annepenman.htm - - 208.36.144.6 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - 200 0 9719
+2008-09-17 17:46:17 GET /index.htm - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://search.comcast.net/?q=stop+smoking+tucson&cat=Web&con=betaa 200 0 3411
+2008-09-17 17:46:17 GET /images/spacer.gif - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 269
+2008-09-17 17:46:17 GET /images/topbar5.gif - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 21274
+2008-09-17 17:46:17 GET /favicon.ico - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) - 404 2 1772
+2008-09-17 17:46:17 GET /images/indexlogo_r1_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 9503
+2008-09-17 17:46:17 GET /images/indexlogo_r2_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 2325
+2008-09-17 17:46:17 GET /images/indexlogo_r2_c4.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 14307
+2008-09-17 17:46:17 GET /images/indexlogo_r2_c10.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 2101
+2008-09-17 17:46:17 GET /images/indexlogo_r3_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 4025
+2008-09-17 17:46:17 GET /images/indexlogo_r4_c4.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 2625
+2008-09-17 17:46:17 GET /images/indexlogo_r4_c9.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 3567
+2008-09-17 17:46:17 GET /images/indexlogo_r4_c10.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 1426
+2008-09-17 17:46:17 GET /images/indexlogo_r5_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 5255
+2008-09-17 17:46:17 GET /images/indexlogo_r5_c7.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 4598
+2008-09-17 17:46:17 GET /images/indexlogo_r5_c11.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 1101
+2008-09-17 17:46:17 GET /images/indexlogo_r6_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 985
+2008-09-17 17:46:17 GET /images/indexlogo_r7_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 897
+2008-09-17 17:46:17 GET /images/indexlogo_r6_c6.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 1445
+2008-09-17 17:46:17 GET /images/indexlogo_r8_c5.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 936
+2008-09-17 17:46:17 GET /images/indexlogo_r8_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 567
+2008-09-17 17:46:17 GET /images/indexlogo_r9_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 785
+2008-09-17 17:46:17 GET /images/indexlogo_r10_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 1082
+2008-09-17 17:46:17 GET /images/indexlogo_r11_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 922
+2008-09-17 17:46:17 GET /images/indexlogo_r12_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 581
+2008-09-17 17:46:17 GET /images/indexlogo_r12_c5.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 960
+2008-09-17 17:46:17 GET /images/indexlogo_r13_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 855
+2008-09-17 17:46:17 GET /images/indexlogo_r14_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 1066
+2008-09-17 17:46:18 GET /images/indexlogo_r15_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 867
+2008-09-17 17:46:18 GET /images/indexlogo_r15_c8.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 747
+2008-09-17 17:46:21 GET /Ira/HDR/bg.jpg - - 69.45.145.234 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 200 0 447451
+2008-09-17 17:47:32 GET /loseweight.htm - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/ 200 0 2663
+2008-09-17 17:47:32 GET /images/weighttreatement.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/loseweight.htm 200 0 17494
+2008-09-17 17:48:30 GET /quitsmoking.htm - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/loseweight.htm 200 0 2261
+2008-09-17 17:48:30 GET /images/nosmokingsign.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/quitsmoking.htm 200 0 18059
+2008-09-17 17:49:01 GET /lasertherapy.htm - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/quitsmoking.htm 200 0 2290
+2008-09-17 17:49:01 GET /images/laserlady.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0) http://www.aplttucson.com/lasertherapy.htm 200 0 6311
+2008-09-17 17:59:09 GET /guidanceadvice.htm - - 208.36.144.6 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - 200 0 7448
+2008-09-17 18:13:23 GET /favicon.ico - - 71.215.103.143 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;++MSN+9.0;MSN+9.1;+MSNbQ002;+MSNmen-us;+MSNcOTH) - 404 2 1772
+2008-09-17 18:25:10 GET /takeaction.htm - - 64.1.215.162 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - 200 0 9169
+2008-09-17 18:30:31 GET /index.htm - - 74.6.22.119 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - 200 0 16232
+2008-09-17 18:40:21 GET /robots.txt - - 65.55.210.175 HTTP/1.1 msnbot/1.1+(+http://search.msn.com/msnbot.htm) - 404 2 1791
+2008-09-17 18:40:21 GET /provenresults.htm - - 65.55.210.175 HTTP/1.1 msnbot/1.1+(+http://search.msn.com/msnbot.htm) - 304 0 233
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 19:11:58
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 19:11:58 GET /robots.txt - - 66.249.71.130 HTTP/1.1 Googlebot-Image/1.0 - 404 2 1772
+2008-09-17 19:11:58 GET /images/laserlady.jpg - - 66.249.71.130 HTTP/1.1 Googlebot-Image/1.0 - 304 0 191
+2008-09-17 19:16:41 GET /provenresults.htm - - 64.1.215.162 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - 200 0 8444
+2008-09-17 19:25:00 GET /Ira/HDR/bg.jpg - - 70.173.20.75 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.1) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 200 0 447451
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 19:49:08
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 19:49:08 GET /index.htm - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://search.comcast.net/?cat=web&oqry=anne+penman+laser+therapy&con=net&form_submit=1&q=anne+penman+laser+therapy+Tucson+AZ&bottom_SearchSubmit=&search_type=new 200 0 3411
+2008-09-17 19:49:08 GET /images/spacer.gif - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 269
+2008-09-17 19:49:08 GET /images/topbar5.gif - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 21274
+2008-09-17 19:49:08 GET /images/indexlogo_r2_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 2325
+2008-09-17 19:49:08 GET /images/indexlogo_r1_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 9503
+2008-09-17 19:49:08 GET /images/indexlogo_r2_c10.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 2101
+2008-09-17 19:49:08 GET /images/indexlogo_r3_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 4025
+2008-09-17 19:49:08 GET /images/indexlogo_r2_c4.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 14307
+2008-09-17 19:49:08 GET /images/indexlogo_r4_c9.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 3567
+2008-09-17 19:49:08 GET /images/indexlogo_r4_c4.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 2625
+2008-09-17 19:49:08 GET /images/indexlogo_r4_c10.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 1426
+2008-09-17 19:49:08 GET /images/indexlogo_r5_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 5255
+2008-09-17 19:49:08 GET /images/indexlogo_r5_c11.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 1101
+2008-09-17 19:49:08 GET /images/indexlogo_r5_c7.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 4598
+2008-09-17 19:49:08 GET /images/indexlogo_r6_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 985
+2008-09-17 19:49:08 GET /images/indexlogo_r6_c6.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 1445
+2008-09-17 19:49:08 GET /images/indexlogo_r8_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 567
+2008-09-17 19:49:08 GET /images/indexlogo_r7_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 897
+2008-09-17 19:49:08 GET /images/indexlogo_r8_c5.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 936
+2008-09-17 19:49:08 GET /images/indexlogo_r9_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 785
+2008-09-17 19:49:08 GET /images/indexlogo_r10_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 1082
+2008-09-17 19:49:08 GET /images/indexlogo_r11_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 922
+2008-09-17 19:49:08 GET /images/indexlogo_r12_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 581
+2008-09-17 19:49:08 GET /images/indexlogo_r12_c5.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 960
+2008-09-17 19:49:08 GET /images/indexlogo_r13_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 855
+2008-09-17 19:49:08 GET /images/indexlogo_r14_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 1066
+2008-09-17 19:49:09 GET /images/indexlogo_r15_c1.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 867
+2008-09-17 19:49:09 GET /images/indexlogo_r15_c8.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 747
+2008-09-17 19:49:56 GET /guidanceadvice.htm - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 2091
+2008-09-17 19:50:04 GET /quitsmoking.htm - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/guidanceadvice.htm 200 0 2261
+2008-09-17 19:50:04 GET /images/nosmokingsign.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/quitsmoking.htm 200 0 18059
+2008-09-17 19:51:30 GET /lasertherapy.htm - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/ 200 0 2290
+2008-09-17 19:51:30 GET /images/laserlady.jpg - - 69.136.125.21 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/lasertherapy.htm 200 0 6311
+2008-09-17 19:55:08 GET /Ira/HDR/bg.jpg - - 98.144.8.227 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.8.1.6)+Gecko/20070725+Firefox/2.0.0.6 http://profileedit.myspace.com/Modules/Profiles/Handlers/UserStyle.ashx?friendId=383976707&styleid=23391 200 0 447451
+2008-09-17 20:07:44 GET /annepenman.htm - - 216.64.188.162 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.google.com/search?hl=en&q=anne+penman+tucson&aq=2&oq=Anne+Penman 200 0 3061
+2008-09-17 20:07:44 GET /images/annepenman1.jpg - - 216.64.188.162 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/annepenman.htm 200 0 36080
+2008-09-17 20:07:44 GET /images/topbar5.gif - - 216.64.188.162 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/annepenman.htm 200 0 21274
+2008-09-17 20:07:56 GET /lasertherapy.htm - - 216.64.188.162 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/annepenman.htm 200 0 2290
+2008-09-17 20:07:56 GET /images/laserlady.jpg - - 216.64.188.162 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://www.aplttucson.com/lasertherapy.htm 200 0 6311
+2008-09-17 20:09:23 GET /Ira/HDR/bg.jpg - - 71.170.106.7 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://profileedit.myspace.com/Modules/Profiles/Handlers/UserStyle.ashx?friendId=383976707&styleid=23391 200 0 447451
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 20:33:45
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 20:33:45 GET /Ira/HDR/bg.jpg - - 64.122.164.5 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 200 0 447451
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 20:54:32
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 20:54:32 GET /Ira/HDR/bg.jpg - - 207.108.121.119 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 200 0 447451
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 22:10:33
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 22:10:32 GET /index.htm - - 208.80.194.37 HTTP/1.0 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+sbcydsl+3.12;+FunWebProducts;+SV1;+YPC+3.2.0;+.NET+CLR+1.0.3705;+yplus+5.1.04b) - 200 0 16287
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 22:26:01
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 22:26:00 GET /index.htm - - 66.150.153.157 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+TrustyHound+IE-TB(4.6);+.NET+CLR+1.1.4322) - 200 0 16268
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 22:47:09
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 22:47:09 GET /index.htm - - 208.80.194.48 HTTP/1.0 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+FunWebProducts;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.1) - 200 0 16283
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 23:05:14
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 23:05:14 GET /favicon.ico - - 71.220.141.164 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;++MSN+9.0;MSN+9.1;+MSNbQ002;+MSNmen-us;+MSNcOTH) - 404 2 1772
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-17 23:27:39
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-17 23:27:39 GET /index.htm - - 66.34.204.26 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Alexa+Toolbar) http://www.keywordspy.com/keyword-research/aplttucson.com 200 0 16264
+2008-09-17 23:27:39 GET /index.htm - - 66.34.204.26 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Alexa+Toolbar) http://www.keywordspy.com/keyword-research/aplttucson.com 200 0 16264
+2008-09-17 23:27:39 GET /index.htm - - 66.34.204.26 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Alexa+Toolbar) http://www.keywordspy.com/keyword-research/aplttucson.com 200 0 16264

@@ -1,0 +1,245 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 01:58:12
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 01:58:12 W3SVC17 67.222.136.138 GET / - 80 - 208.80.193.42 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+FunWebProducts;+YPC+3.2.0;+(R1+1.5;+yplus+4.1.00b);+.NET+CLR+1.1.4322) 200 0 0 16623 184 122
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 02:18:30
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 02:18:30 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 208.115.111.242 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 404 0 2 1405 251 47
+2010-06-02 02:18:30 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 208.115.111.242 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 404 0 2 1405 255 48
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 03:07:12
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 03:07:12 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 207.46.195.239 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 404 0 64 0 219 26
+2010-06-02 03:14:49 W3SVC17 67.222.136.138 GET / - 80 - 208.115.111.242 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 16604 245 152
+2010-06-02 03:14:53 W3SVC17 67.222.136.138 GET /backupsupport.htm - 80 - 208.115.111.242 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 7400 262 123
+2010-06-02 03:14:58 W3SVC17 67.222.136.138 GET /guidanceadvice.htm - 80 - 208.115.111.242 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 7450 263 120
+2010-06-02 03:15:02 W3SVC17 67.222.136.138 GET /lasertherapy.htm - 80 - 208.115.111.242 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 8075 261 115
+2010-06-02 03:15:07 W3SVC17 67.222.136.138 GET /loseweight.htm - 80 - 208.115.111.242 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 9254 259 170
+2010-06-02 03:15:12 W3SVC17 67.222.136.138 GET /quitsmoking.htm - 80 - 208.115.111.242 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 7824 260 123
+2010-06-02 03:15:33 W3SVC17 67.222.136.138 GET / - 80 - 208.115.111.242 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 16604 241 152
+2010-06-02 03:15:38 W3SVC17 67.222.136.138 GET /backupsupport.htm - 80 - 208.115.111.242 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 7400 258 116
+2010-06-02 03:15:44 W3SVC17 67.222.136.138 GET /guidanceadvice.htm - 80 - 208.115.111.242 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 7450 259 118
+2010-06-02 03:15:49 W3SVC17 67.222.136.138 GET /lasertherapy.htm - 80 - 208.115.111.242 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 8075 257 113
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 03:46:37
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 03:46:37 W3SVC17 67.222.136.138 GET /index.htm - 80 - 207.46.195.239 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 304 0 64 0 316 26
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 04:49:35
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 04:49:35 W3SVC17 67.222.136.138 GET / - 80 - 208.80.193.27 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;++Embedded+Web+Browser+from:+http://bsalsa.com/;+.NET+CLR+1.0.3705;+.NET+CLR+2.0.50727;+yplus+5.6.04b) 200 0 0 16623 216 131
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 05:43:28
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 05:43:28 W3SVC17 67.222.136.138 GET / - 80 - 220.181.7.83 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 1460 150 266
+2010-06-02 05:43:57 W3SVC17 67.222.136.138 GET / - 80 - 123.125.66.132 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 2920 150 445
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 06:04:08
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 06:04:08 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 119.63.198.16 Baiduspider+(+http://www.baidu.com/search/spider.htm) 404 0 2 1424 206 151
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET / - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 16604 490 207
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/spacer.gif - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 288 366 73
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r1_c1.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 9522 375 125
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r2_c1.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 2344 375 76
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r2_c10.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 2120 376 67
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r2_c4.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 14326 375 79
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r4_c9.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 3586 375 149
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r4_c10.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 1445 376 82
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r3_c1.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 4044 375 147
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r5_c7.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 4615 375 76
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/topbar5.gif - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 21293 367 288
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r5_c1.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 5274 375 141
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r6_c1.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 1004 375 78
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r5_c11.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 1120 376 88
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r7_c1.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 916 375 74
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r8_c1.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 585 375 68
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r9_c1.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 803 375 64
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r8_c5.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 955 375 86
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r10_c1.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 1101 376 72
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r11_c1.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 941 376 67
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r12_c1.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 600 376 66
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r12_c5.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 979 376 66
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r4_c4.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 2644 375 69
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r6_c6.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 1464 375 70
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r15_c1.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 885 376 263
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r14_c1.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 1085 376 264
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r13_c1.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 874 376 270
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/aplt299star.gif - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 37665 371 220
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r15_c8.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 766 376 260
+2010-06-02 06:05:00 W3SVC17 67.222.136.138 GET /favicon.ico - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 404 0 64 0 303 65
+2010-06-02 06:05:17 W3SVC17 67.222.136.138 GET /images/weighttreatement.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 17513 390 147
+2010-06-02 06:05:17 W3SVC17 67.222.136.138 GET /loseweight.htm - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 9254 537 271
+2010-06-02 06:05:17 W3SVC17 67.222.136.138 GET /favicon.ico - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 404 0 64 0 303 65
+2010-06-02 06:06:13 W3SVC17 67.222.136.138 GET /lasertherapy.htm - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 8075 553 269
+2010-06-02 06:06:13 W3SVC17 67.222.136.138 GET /images/laserlady.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 6330 385 273
+2010-06-02 06:06:45 W3SVC17 67.222.136.138 GET /takeaction.htm - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 9170 551 84
+2010-06-02 06:06:45 W3SVC17 67.222.136.138 GET /images/saundamartyanne.jpg - 80 - 69.244.44.136 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB0.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+Zune+4.0) 200 0 0 16191 389 82
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 06:33:54
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 06:33:54 W3SVC17 67.222.136.138 GET / - 80 - 123.125.66.133 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 2920 150 285
+2010-06-02 06:34:06 W3SVC17 67.222.136.138 GET / - 80 - 220.181.7.130 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 2920 150 207
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 07:06:05
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 07:06:05 W3SVC17 67.222.136.138 GET /takeaction.htm - 80 - 208.115.111.242 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 9170 259 153
+2010-06-02 07:06:11 W3SVC17 67.222.136.138 GET /loseweight.htm - 80 - 208.115.111.242 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 9254 255 151
+2010-06-02 07:06:16 W3SVC17 67.222.136.138 GET /quitsmoking.htm - 80 - 208.115.111.242 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 7824 256 108
+2010-06-02 07:06:21 W3SVC17 67.222.136.138 GET /takeaction.htm - 80 - 208.115.111.242 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 9170 255 151
+2010-06-02 07:13:30 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 67.218.116.162 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) 404 0 2 1424 196 46
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 08:19:03
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 08:19:03 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 67.195.115.159 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 200 59
+2010-06-02 08:19:03 W3SVC17 67.222.136.138 GET /annepenman.htm - 80 - 67.195.115.159 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 9740 377 187
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 10:59:20
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 10:59:19 W3SVC17 67.222.136.138 GET / - 80 - 208.80.193.38 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+{0899729F-EA47-A03E-3554-BF860857374F};+Mozilla/4.0(Compatible+Mozilla/4.0(Compatible-EmbeddedWB+14.57+http://bsalsa.com/+EmbeddedWB-+14.57++from:+http://bsalsa.com/+;+.NET+CLR+2.0.50727) 200 0 0 16623 296 123
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 12:04:36
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 12:04:35 W3SVC17 67.222.136.138 GET / - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 16604 807 198
+2010-06-02 12:04:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r4_c10.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 1445 456 126
+2010-06-02 12:04:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r2_c1.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 2344 455 101
+2010-06-02 12:04:35 W3SVC17 67.222.136.138 GET /images/spacer.gif - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 288 446 97
+2010-06-02 12:04:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r2_c10.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 2120 456 111
+2010-06-02 12:04:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r4_c4.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 2644 455 121
+2010-06-02 12:04:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r5_c1.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 5274 455 83
+2010-06-02 12:04:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r3_c1.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 4044 455 166
+2010-06-02 12:04:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r4_c9.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 3586 455 191
+2010-06-02 12:04:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r5_c11.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 1120 456 102
+2010-06-02 12:04:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r5_c7.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 4615 455 108
+2010-06-02 12:04:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r1_c1.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 9522 455 226
+2010-06-02 12:04:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r2_c4.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 14326 455 320
+2010-06-02 12:04:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r6_c6.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 1464 455 160
+2010-06-02 12:04:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r6_c1.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 1004 455 166
+2010-06-02 12:04:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r7_c1.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 916 455 167
+2010-06-02 12:04:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r11_c1.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 941 456 137
+2010-06-02 12:04:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r13_c1.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 874 456 114
+2010-06-02 12:04:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r12_c1.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 600 456 137
+2010-06-02 12:04:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r12_c5.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 979 456 129
+2010-06-02 12:04:36 W3SVC17 67.222.136.138 GET /images/indexlogo_r10_c1.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 1101 456 361
+2010-06-02 12:04:36 W3SVC17 67.222.136.138 GET /images/topbar5.gif - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 21293 447 573
+2010-06-02 12:04:36 W3SVC17 67.222.136.138 GET /images/indexlogo_r15_c8.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 766 456 257
+2010-06-02 12:04:36 W3SVC17 67.222.136.138 GET /images/indexlogo_r14_c1.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 1085 456 261
+2010-06-02 12:04:36 W3SVC17 67.222.136.138 GET /images/indexlogo_r8_c1.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 585 455 265
+2010-06-02 12:04:36 W3SVC17 67.222.136.138 GET /images/aplt299star.gif - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 37665 451 269
+2010-06-02 12:04:36 W3SVC17 67.222.136.138 GET /images/indexlogo_r9_c1.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 803 455 261
+2010-06-02 12:04:36 W3SVC17 67.222.136.138 GET /images/indexlogo_r15_c1.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 885 456 280
+2010-06-02 12:04:36 W3SVC17 67.222.136.138 GET /images/indexlogo_r8_c5.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 955 455 292
+2010-06-02 12:04:36 W3SVC17 67.222.136.138 GET /favicon.ico - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 404 0 64 0 379 68
+2010-06-02 12:05:26 W3SVC17 67.222.136.138 GET /lasertherapy.htm - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 8075 723 77
+2010-06-02 12:05:26 W3SVC17 67.222.136.138 GET /favicon.ico - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 404 0 64 0 379 67
+2010-06-02 12:05:26 W3SVC17 67.222.136.138 GET /images/laserlady.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 6330 465 283
+2010-06-02 12:07:01 W3SVC17 67.222.136.138 GET /loseweight.htm - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 9254 737 441
+2010-06-02 12:07:01 W3SVC17 67.222.136.138 GET /images/weighttreatement.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 17513 470 213
+2010-06-02 12:07:53 W3SVC17 67.222.136.138 GET /quitsmoking.htm - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 7824 736 84
+2010-06-02 12:07:53 W3SVC17 67.222.136.138 GET /images/nosmokingsign.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 18078 468 353
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 12:24:00
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 12:24:00 W3SVC17 67.222.136.138 GET /backupsupport.htm - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 7400 740 138
+2010-06-02 12:24:00 W3SVC17 67.222.136.138 GET /images/phonelady.jpg - 80 - 71.226.50.56 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Trident/4.0;+FunWebProducts;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+Media+Center+PC+5.0;+SLCC1;+OfficeLiveConnector.1.4;+OfficeLivePatch.1.3) 200 0 0 9340 466 289
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 13:24:41
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 13:24:41 W3SVC17 67.222.136.138 GET /annepenman.htm - 80 - 67.218.116.130 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) 200 0 0 9740 205 192
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 13:50:44
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 13:50:43 W3SVC17 67.222.136.138 GET /provenresults.htm - 80 - 77.88.25.28 Yandex/1.01.001+(compatible;+Win16;+I) 200 0 0 8444 268 522
+2010-06-02 13:54:10 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 123.125.66.101 Baiduspider+(+http://www.baidu.com/search/spider.htm) 404 0 2 1424 202 461
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 14:44:45
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 14:44:45 W3SVC17 67.222.136.138 GET / - 80 - 123.125.66.80 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 1460 150 451
+2010-06-02 14:45:56 W3SVC17 67.222.136.138 GET / - 80 - 220.181.7.87 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 1460 150 1229
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 15:32:48
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 15:32:48 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 67.218.116.131 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) 404 0 2 1424 205 45
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 16:45:19
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 16:45:19 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 193.47.80.39 Mozilla/5.0+(compatible;+Exabot/3.0;++http://www.exabot.com/go/robot) 404 0 2 1424 273 129
+2010-06-02 16:45:19 W3SVC17 67.222.136.138 GET / - 80 - 193.47.80.39 Mozilla/5.0+(compatible;+Exabot/3.0;++http://www.exabot.com/go/robot) 304 0 0 229 348 132
+2010-06-02 16:58:11 W3SVC17 67.222.136.138 GET /annepenman.htm - 80 - 174.18.172.61 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB5;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 9721 666 305
+2010-06-02 16:58:13 W3SVC17 67.222.136.138 GET /images/topbar5.gif - 80 - 174.18.172.61 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB5;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 21293 382 555
+2010-06-02 16:58:13 W3SVC17 67.222.136.138 GET /favicon.ico - 80 - 174.18.172.61 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB5;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 64 0 295 88
+2010-06-02 16:58:13 W3SVC17 67.222.136.138 GET /images/annepenman1.jpg - 80 - 174.18.172.61 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB5;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 36099 386 565
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 17:41:50
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 17:41:49 W3SVC17 67.222.136.138 GET / - 80 - 220.181.7.85 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 1460 150 248
+2010-06-02 17:42:43 W3SVC17 67.222.136.138 GET / - 80 - 123.125.66.92 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 2920 150 228
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 17:59:16
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 17:59:16 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 207.46.195.241 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 404 0 64 0 219 29
+2010-06-02 18:01:10 W3SVC17 67.222.136.138 GET /takeaction.htm - 80 - 207.46.195.241 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 304 0 64 0 322 27
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 18:38:10
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 18:38:09 W3SVC17 67.222.136.138 GET / - 80 - 220.181.7.85 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 2920 150 247
+2010-06-02 18:38:34 W3SVC17 67.222.136.138 GET / - 80 - 123.125.66.85 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 2920 150 356
+2010-06-02 18:49:39 W3SVC17 67.222.136.138 GET /favicon.ico - 80 - 75.164.4.154 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;++MSN+9.0;MSN+9.1;MSN+9.6;+MSNbQ002;+MSNmen-us;+MSNcOTH) 404 0 2 1405 306 266
+2010-06-02 18:56:33 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 67.218.116.162 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) 404 0 2 1424 200 45
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 19:30:29
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 19:30:28 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 67.218.116.130 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) 404 0 2 1424 200 47
+2010-06-02 19:42:58 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 207.46.195.228 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 404 0 64 0 219 27
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 20:19:37
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 20:19:37 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 67.195.37.176 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 195 58
+2010-06-02 20:19:37 W3SVC17 67.222.136.138 GET /loseweight.htm - 80 - 67.195.37.176 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 9273 372 184
+2010-06-02 20:24:38 W3SVC17 67.222.136.138 GET /quitsmoking.htm - 80 - 207.46.195.228 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 304 0 64 0 322 27
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 20:40:51
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 20:40:50 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 77.88.25.28 Yandex/1.01.001+(compatible;+Win16;+I) 404 0 2 1405 157 172
+2010-06-02 20:48:48 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 216.129.119.44 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) 404 0 2 1424 201 344
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 21:15:32
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 21:15:32 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 216.129.119.42 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) 404 0 2 1424 200 47
+2010-06-02 21:28:59 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 207.46.195.233 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 404 0 64 0 214 26
+2010-06-02 21:42:56 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 67.218.116.130 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) 404 0 2 1424 201 82
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 22:13:39
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 22:13:39 W3SVC17 67.222.136.138 GET /takeaction.htm - 80 - 207.46.195.233 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 304 0 64 0 317 26
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-02 22:42:35
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-02 22:42:35 W3SVC17 67.222.136.138 GET /templates/ - 80 - 89.149.254.50 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 403 14 0 1393 183 135

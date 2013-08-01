@@ -1,0 +1,348 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 00:32:29
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 00:32:29 W3SVC17 67.222.136.138 GET / - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 16232 732 168
+2009-12-11 00:32:29 W3SVC17 67.222.136.138 GET /images/spacer.gif - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 288 422 50
+2009-12-11 00:32:29 W3SVC17 67.222.136.138 GET /images/indexlogo_r1_c1.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 9522 431 82
+2009-12-11 00:32:29 W3SVC17 67.222.136.138 GET /images/indexlogo_r2_c1.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 2344 431 58
+2009-12-11 00:32:29 W3SVC17 67.222.136.138 GET /images/topbar5.gif - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 21293 423 216
+2009-12-11 00:32:29 W3SVC17 67.222.136.138 GET /images/indexlogo_r2_c4.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 14326 431 76
+2009-12-11 00:32:29 W3SVC17 67.222.136.138 GET /images/indexlogo_r2_c10.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 2120 432 55
+2009-12-11 00:32:29 W3SVC17 67.222.136.138 GET /images/indexlogo_r3_c1.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 4044 431 68
+2009-12-11 00:32:29 W3SVC17 67.222.136.138 GET /images/indexlogo_r4_c4.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 2644 431 61
+2009-12-11 00:32:29 W3SVC17 67.222.136.138 GET /images/indexlogo_r4_c9.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 3586 431 70
+2009-12-11 00:32:29 W3SVC17 67.222.136.138 GET /images/indexlogo_r4_c10.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 1445 432 70
+2009-12-11 00:32:29 W3SVC17 67.222.136.138 GET /images/indexlogo_r5_c7.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 4615 431 74
+2009-12-11 00:32:29 W3SVC17 67.222.136.138 GET /images/indexlogo_r5_c1.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 5274 431 79
+2009-12-11 00:32:29 W3SVC17 67.222.136.138 GET /images/indexlogo_r6_c1.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 1004 431 51
+2009-12-11 00:32:29 W3SVC17 67.222.136.138 GET /images/indexlogo_r5_c11.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 1120 432 59
+2009-12-11 00:32:29 W3SVC17 67.222.136.138 GET /images/indexlogo_r6_c6.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 1464 431 54
+2009-12-11 00:32:29 W3SVC17 67.222.136.138 GET /images/indexlogo_r7_c1.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 916 431 62
+2009-12-11 00:32:29 W3SVC17 67.222.136.138 GET /images/indexlogo_r8_c1.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 585 431 61
+2009-12-11 00:32:29 W3SVC17 67.222.136.138 GET /images/indexlogo_r8_c5.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 955 431 64
+2009-12-11 00:32:29 W3SVC17 67.222.136.138 GET /images/indexlogo_r9_c1.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 803 431 50
+2009-12-11 00:32:29 W3SVC17 67.222.136.138 GET /images/indexlogo_r10_c1.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 1101 432 53
+2009-12-11 00:32:29 W3SVC17 67.222.136.138 GET /images/indexlogo_r11_c1.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 941 432 59
+2009-12-11 00:32:29 W3SVC17 67.222.136.138 GET /images/indexlogo_r12_c1.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 600 432 53
+2009-12-11 00:32:30 W3SVC17 67.222.136.138 GET /images/indexlogo_r12_c5.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 979 432 57
+2009-12-11 00:32:30 W3SVC17 67.222.136.138 GET /images/indexlogo_r13_c1.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 874 432 54
+2009-12-11 00:32:30 W3SVC17 67.222.136.138 GET /images/indexlogo_r14_c1.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 1085 432 52
+2009-12-11 00:32:30 W3SVC17 67.222.136.138 GET /images/indexlogo_r15_c1.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 885 432 162
+2009-12-11 00:32:30 W3SVC17 67.222.136.138 GET /images/indexlogo_r15_c8.jpg - 80 - 70.184.119.252 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 766 432 118
+2009-12-11 00:32:30 W3SVC17 67.222.136.138 GET /favicon.ico - 80 - 70.184.119.252 Mozilla/5.0+(compatible;+Google+Desktop/5.9.911.3589;+http://desktop.google.com/) 404 0 64 0 215 59
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 00:51:52
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 00:51:52 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 119.63.198.6 Baiduspider+(+http://www.baidu.com/search/spider.htm) 404 0 2 1424 206 155
+2009-12-11 01:04:00 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 66.249.71.168 Googlebot-Image/1.0 404 0 2 1405 211 28
+2009-12-11 01:04:00 W3SVC17 67.222.136.138 GET /images/indexlogo_r4_c10.jpg - 80 - 66.249.71.168 Googlebot-Image/1.0 304 0 0 210 261 77
+2009-12-11 01:13:48 W3SVC17 67.222.136.138 GET / republish=1&cid=438204 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 16232 678 325
+2009-12-11 01:13:48 W3SVC17 67.222.136.138 GET /images/indexlogo_r2_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 2344 398 132
+2009-12-11 01:13:48 W3SVC17 67.222.136.138 GET /images/spacer.gif - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 288 389 134
+2009-12-11 01:13:48 W3SVC17 67.222.136.138 GET /images/indexlogo_r2_c10.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 2120 399 123
+2009-12-11 01:13:48 W3SVC17 67.222.136.138 GET /images/indexlogo_r3_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 4044 398 161
+2009-12-11 01:13:48 W3SVC17 67.222.136.138 GET /images/indexlogo_r4_c4.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 2644 398 157
+2009-12-11 01:13:48 W3SVC17 67.222.136.138 GET /images/indexlogo_r4_c10.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 1445 399 168
+2009-12-11 01:13:48 W3SVC17 67.222.136.138 GET /images/indexlogo_r1_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 9522 398 417
+2009-12-11 01:13:48 W3SVC17 67.222.136.138 GET /images/indexlogo_r2_c4.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 14326 398 436
+2009-12-11 01:13:48 W3SVC17 67.222.136.138 GET /images/indexlogo_r5_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 5274 398 156
+2009-12-11 01:13:48 W3SVC17 67.222.136.138 GET /images/indexlogo_r5_c7.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 4615 398 166
+2009-12-11 01:13:48 W3SVC17 67.222.136.138 GET /images/topbar5.gif - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 21293 390 534
+2009-12-11 01:13:48 W3SVC17 67.222.136.138 GET /images/indexlogo_r5_c11.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 1120 399 190
+2009-12-11 01:13:48 W3SVC17 67.222.136.138 GET /images/indexlogo_r6_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 1004 398 126
+2009-12-11 01:13:49 W3SVC17 67.222.136.138 GET /images/indexlogo_r6_c6.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 1464 398 103
+2009-12-11 01:13:49 W3SVC17 67.222.136.138 GET /images/indexlogo_r7_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 916 398 100
+2009-12-11 01:13:49 W3SVC17 67.222.136.138 GET /images/indexlogo_r8_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 585 398 93
+2009-12-11 01:13:49 W3SVC17 67.222.136.138 GET /images/indexlogo_r8_c5.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 955 398 101
+2009-12-11 01:13:49 W3SVC17 67.222.136.138 GET /images/indexlogo_r9_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 803 398 100
+2009-12-11 01:13:49 W3SVC17 67.222.136.138 GET /images/indexlogo_r10_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 1101 399 107
+2009-12-11 01:13:49 W3SVC17 67.222.136.138 GET /images/indexlogo_r11_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 941 399 96
+2009-12-11 01:13:49 W3SVC17 67.222.136.138 GET /images/indexlogo_r12_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 600 399 90
+2009-12-11 01:13:49 W3SVC17 67.222.136.138 GET /images/indexlogo_r12_c5.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 979 399 194
+2009-12-11 01:13:49 W3SVC17 67.222.136.138 GET /favicon.ico - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 404 0 64 0 294 90
+2009-12-11 01:13:49 W3SVC17 67.222.136.138 GET /images/indexlogo_r14_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 1085 399 274
+2009-12-11 01:13:49 W3SVC17 67.222.136.138 GET /images/indexlogo_r13_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 874 399 285
+2009-12-11 01:13:49 W3SVC17 67.222.136.138 GET /images/indexlogo_r15_c8.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 766 399 276
+2009-12-11 01:13:49 W3SVC17 67.222.136.138 GET /images/indexlogo_r15_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 885 399 294
+2009-12-11 01:13:49 W3SVC17 67.222.136.138 GET /images/indexlogo_r4_c9.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 3586 398 300
+2009-12-11 01:14:06 W3SVC17 67.222.136.138 GET /quitsmoking.htm - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 7824 387 211
+2009-12-11 01:14:06 W3SVC17 67.222.136.138 GET /images/topbar5.gif - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 467 187
+2009-12-11 01:14:06 W3SVC17 67.222.136.138 GET /favicon.ico - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 404 0 64 0 294 88
+2009-12-11 01:14:06 W3SVC17 67.222.136.138 GET /images/nosmokingsign.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 18078 388 421
+2009-12-11 01:14:33 W3SVC17 67.222.136.138 GET /lasertherapy.htm - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 8075 380 217
+2009-12-11 01:14:33 W3SVC17 67.222.136.138 GET /images/laserlady.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 6330 385 320
+2009-12-11 01:14:33 W3SVC17 67.222.136.138 GET /images/topbar5.gif - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 468 272
+2009-12-11 01:14:34 W3SVC17 67.222.136.138 GET /quitsmoking.htm - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 464 100
+2009-12-11 01:14:34 W3SVC17 67.222.136.138 GET /images/nosmokingsign.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 473 274
+2009-12-11 01:14:34 W3SVC17 67.222.136.138 GET /images/topbar5.gif - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 467 285
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /index.htm - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 16232 624 319
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/spacer.gif - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 460 89
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r2_c4.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 469 88
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r2_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 469 90
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r1_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 469 89
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r2_c10.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 470 89
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r3_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 469 88
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r4_c4.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 469 90
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r4_c9.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 469 89
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r4_c10.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 470 89
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r5_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 469 90
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r5_c7.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 208 467 88
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r5_c11.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 470 89
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r6_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 469 88
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r6_c6.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 469 90
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r7_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 469 90
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r8_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 209 468 90
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r8_c5.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 469 89
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r9_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 209 468 89
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r10_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 470 88
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r11_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 470 88
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r12_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 470 87
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r12_c5.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 470 88
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r13_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 470 273
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r14_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 470 279
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r15_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 209 469 270
+2009-12-11 01:15:13 W3SVC17 67.222.136.138 GET /images/indexlogo_r15_c8.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 470 273
+2009-12-11 01:20:00 W3SVC17 67.222.136.138 GET /annepenman.htm - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 9721 386 297
+2009-12-11 01:20:00 W3SVC17 67.222.136.138 GET /images/topbar5.gif - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 466 282
+2009-12-11 01:20:00 W3SVC17 67.222.136.138 GET /images/annepenman1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 36099 385 540
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET / - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0 16232 558 320
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/topbar5.gif - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 452 91
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r1_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 460 117
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r2_c4.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 460 117
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r2_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 460 114
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/spacer.gif - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 451 114
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r3_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 460 114
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r2_c10.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 461 110
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r4_c4.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 460 89
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r4_c9.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 460 89
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r4_c10.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 461 89
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r5_c7.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 208 458 88
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r5_c11.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 461 90
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r5_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 460 89
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r6_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 460 88
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r6_c6.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 460 89
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r7_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 460 90
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r8_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 209 459 90
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r8_c5.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 460 89
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r9_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 209 459 89
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r10_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 461 90
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r11_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 461 89
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r12_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 461 274
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r12_c5.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 461 279
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r13_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 461 273
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r14_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 461 278
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r15_c8.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 210 461 272
+2009-12-11 01:26:18 W3SVC17 67.222.136.138 GET /images/indexlogo_r15_c1.jpg - 80 - 174.18.204.172 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 304 0 0 209 460 283
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 02:24:15
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 02:24:15 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 65.55.106.162 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 404 0 64 0 214 37
+2009-12-11 02:25:16 W3SVC17 67.222.136.138 GET /takeaction.htm - 80 - 65.55.106.162 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 304 0 64 0 316 36
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 03:23:03
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 03:23:03 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 131.107.65.43 MSR-ISRCCrawler 404 0 2 1405 145 45
+2009-12-11 03:23:20 W3SVC17 67.222.136.138 GET /annepenman.htm - 80 - 131.107.65.43 MSR-ISRCCrawler 200 0 0 9721 149 97
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 04:04:33
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 04:04:33 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 65.55.207.100 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 404 0 64 0 214 37
+2009-12-11 04:10:48 W3SVC17 67.222.136.138 GET /annepenman.htm - 80 - 65.55.207.100 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 304 0 64 0 316 38
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 04:36:57
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 04:36:57 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 119.63.193.130 Baiduspider+(+http://www.baidu.jp/spider/) 404 0 2 1424 165 151
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 04:55:29
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 04:55:29 W3SVC17 67.222.136.138 GET /favicon.ico - 80 - 174.18.209.238 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+WOW64;+Trident/4.0;+FBSMTWB;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.21022;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+MSN+9.0;MSN+9.1;MSN+9.6;+MSNbQ002;+MSNmen-us;+MSNcOTH) 404 0 2 1405 410 511
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 05:10:49
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 05:10:49 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 123.125.66.45 Baiduspider+(+http://www.baidu.com/search/spider.htm) 404 0 2 1424 206 312
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 05:51:58
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 05:51:58 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 65.55.106.157 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 404 0 64 0 214 38
+2009-12-11 05:52:17 W3SVC17 67.222.136.138 GET /favicon.ico - 80 - 174.18.209.238 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+WOW64;+Trident/4.0;+FBSMTWB;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.21022;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618;+MSN+9.0;MSN+9.1;MSN+9.6;+MSNbQ002;+MSNmen-us;+MSNcOTH) 404 0 2 1405 410 324
+2009-12-11 05:52:48 W3SVC17 67.222.136.138 GET /guidanceadvice.htm - 80 - 65.55.106.157 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 304 0 64 0 320 37
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 11:16:24
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 11:16:24 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 77.88.30.247 Yandex/1.01.001+(compatible;+Win16;+I) 404 0 2 1405 156 158
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 12:54:56
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 12:54:56 W3SVC17 67.222.136.138 GET / - 80 - 208.80.193.32 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+SIMBAR={72CF8303-14DA-4d2b-9AE5-C624A65F442A};+Arcor+5.006;+Media+Center+PC+3.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+HbTools+4.8.2) 200 0 0 16251 247 139
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 13:30:17
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 13:30:17 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 67.218.116.131 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) 404 0 2 1424 205 101
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 13:55:04
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 13:55:04 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 65.55.106.211 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 404 0 64 0 214 36
+2009-12-11 13:55:42 W3SVC17 67.222.136.138 GET /index.htm - 80 - 65.55.106.211 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 304 0 64 0 311 36
+2009-12-11 13:55:55 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 65.55.207.50 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 404 0 64 0 210 35
+2009-12-11 13:57:46 W3SVC17 67.222.136.138 GET / - 80 - 65.55.207.50 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 304 0 64 0 298 48
+2009-12-11 14:02:38 W3SVC17 67.222.136.138 GET /provenresults.htm - 80 - 77.88.30.247 Yandex/1.01.001+(compatible;+Win16;+I) 200 0 0 8444 268 513
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 14:18:46
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 14:18:46 W3SVC17 67.222.136.138 GET /backupsupport.htm - 80 - 65.55.106.115 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 304 0 64 0 319 37
+2009-12-11 14:23:24 W3SVC17 67.222.136.138 GET / - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 16232 173 461
+2009-12-11 14:23:24 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 404 0 2 1405 183 154
+2009-12-11 14:23:24 W3SVC17 67.222.136.138 GET / - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 16232 173 154
+2009-12-11 14:23:26 W3SVC17 67.222.136.138 GET / - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 16232 178 460
+2009-12-11 14:23:26 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 404 0 2 1405 188 153
+2009-12-11 14:23:26 W3SVC17 67.222.136.138 GET / - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 16232 178 155
+2009-12-11 14:23:26 W3SVC17 67.222.136.138 GET /takeaction.htm - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 9169 187 167
+2009-12-11 14:23:26 W3SVC17 67.222.136.138 GET /takeaction.htm - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 9169 187 264
+2009-12-11 14:23:26 W3SVC17 67.222.136.138 GET /takeaction.htm - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 9169 192 156
+2009-12-11 14:23:27 W3SVC17 67.222.136.138 GET /takeaction.htm - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 9169 192 253
+2009-12-11 14:23:27 W3SVC17 67.222.136.138 GET /provenresults.htm - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 8444 190 160
+2009-12-11 14:23:27 W3SVC17 67.222.136.138 GET /provenresults.htm - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 8444 190 273
+2009-12-11 14:23:27 W3SVC17 67.222.136.138 GET /provenresults.htm - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 8444 195 155
+2009-12-11 14:23:27 W3SVC17 67.222.136.138 GET /provenresults.htm - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 8444 195 254
+2009-12-11 14:23:27 W3SVC17 67.222.136.138 GET /quitsmoking.htm - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 7824 188 164
+2009-12-11 14:23:27 W3SVC17 67.222.136.138 GET /quitsmoking.htm - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 7824 188 157
+2009-12-11 14:23:28 W3SVC17 67.222.136.138 GET /quitsmoking.htm - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 7824 193 154
+2009-12-11 14:23:28 W3SVC17 67.222.136.138 GET /quitsmoking.htm - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 7824 193 154
+2009-12-11 14:23:28 W3SVC17 67.222.136.138 GET /index.htm - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 16232 182 155
+2009-12-11 14:23:28 W3SVC17 67.222.136.138 GET /index.htm - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 16232 182 155
+2009-12-11 14:23:28 W3SVC17 67.222.136.138 GET /index.htm - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 16232 187 154
+2009-12-11 14:23:28 W3SVC17 67.222.136.138 GET /index.htm - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 16232 187 155
+2009-12-11 14:23:28 W3SVC17 67.222.136.138 GET /backupsupport.htm - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 7400 190 165
+2009-12-11 14:23:29 W3SVC17 67.222.136.138 GET /backupsupport.htm - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 7400 190 157
+2009-12-11 14:23:29 W3SVC17 67.222.136.138 GET /backupsupport.htm - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 7400 195 154
+2009-12-11 14:23:29 W3SVC17 67.222.136.138 GET /backupsupport.htm - 80 - 77.88.51.37 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 7400 195 153
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 14:40:45
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 14:40:45 W3SVC17 67.222.136.138 GET /takeaction.htm - 80 - 125.18.8.22 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) 200 0 0 9169 465 896
+2009-12-11 14:40:45 W3SVC17 67.222.136.138 GET /images/saundamartyanne.jpg - 80 - 125.18.8.22 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) 200 0 0 16191 320 611
+2009-12-11 14:40:46 W3SVC17 67.222.136.138 GET /images/topbar5.gif - 80 - 125.18.8.22 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) 200 0 0 21293 312 1199
+2009-12-11 14:40:46 W3SVC17 67.222.136.138 GET /favicon.ico - 80 - 125.18.8.22 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) 404 0 64 0 225 294
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 14:58:02
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 14:58:02 W3SVC17 67.222.136.138 GET /favicon.ico - 80 - 71.33.72.155 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+FunWebProducts;++MSN+9.0;MSN+9.1;MSN+9.6;+MSNbQ002;+MSNmen-us;+MSNcOTH) 404 0 2 1405 303 209
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 15:17:36
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 15:17:35 W3SVC17 67.222.136.138 GET / - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 16232 381 101
+2009-12-11 15:17:35 W3SVC17 67.222.136.138 GET /images/spacer.gif - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 288 361 29
+2009-12-11 15:17:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r1_c1.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 9522 370 53
+2009-12-11 15:17:35 W3SVC17 67.222.136.138 GET /images/topbar5.gif - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 21293 362 132
+2009-12-11 15:17:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r2_c1.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 2344 370 35
+2009-12-11 15:17:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r2_c4.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 14326 370 36
+2009-12-11 15:17:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r2_c10.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 2120 371 40
+2009-12-11 15:17:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r3_c1.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 4044 370 40
+2009-12-11 15:17:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r4_c4.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 2644 370 34
+2009-12-11 15:17:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r4_c9.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 3586 370 38
+2009-12-11 15:17:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r4_c10.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 1445 371 43
+2009-12-11 15:17:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r5_c1.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 5274 370 37
+2009-12-11 15:17:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r5_c7.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 4615 370 37
+2009-12-11 15:17:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r5_c11.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 1120 371 31
+2009-12-11 15:17:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r6_c1.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 1004 370 30
+2009-12-11 15:17:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r6_c6.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 1464 370 35
+2009-12-11 15:17:35 W3SVC17 67.222.136.138 GET /images/indexlogo_r7_c1.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 916 370 36
+2009-12-11 15:17:36 W3SVC17 67.222.136.138 GET /images/indexlogo_r8_c1.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 585 370 29
+2009-12-11 15:17:36 W3SVC17 67.222.136.138 GET /images/indexlogo_r9_c1.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 803 370 30
+2009-12-11 15:17:36 W3SVC17 67.222.136.138 GET /images/indexlogo_r8_c5.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 955 370 54
+2009-12-11 15:17:36 W3SVC17 67.222.136.138 GET /images/indexlogo_r10_c1.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 1101 371 39
+2009-12-11 15:17:36 W3SVC17 67.222.136.138 GET /images/indexlogo_r11_c1.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 941 371 38
+2009-12-11 15:17:36 W3SVC17 67.222.136.138 GET /images/indexlogo_r12_c1.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 600 371 30
+2009-12-11 15:17:36 W3SVC17 67.222.136.138 GET /images/indexlogo_r12_c5.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 979 371 30
+2009-12-11 15:17:36 W3SVC17 67.222.136.138 GET /images/indexlogo_r13_c1.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 874 371 30
+2009-12-11 15:17:36 W3SVC17 67.222.136.138 GET /images/indexlogo_r14_c1.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 1085 371 30
+2009-12-11 15:17:36 W3SVC17 67.222.136.138 GET /images/indexlogo_r15_c1.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 885 371 53
+2009-12-11 15:17:36 W3SVC17 67.222.136.138 GET /favicon.ico - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 2 1405 289 29
+2009-12-11 15:17:36 W3SVC17 67.222.136.138 GET /images/indexlogo_r15_c8.jpg - 80 - 198.60.159.10 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 766 371 214
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 15:40:33
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 15:40:33 W3SVC17 67.222.136.138 GET /favicon.ico - 80 - 174.18.81.7 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;++MSN+9.0;MSN+9.1;MSN+9.6;+MSNbQ002;+MSNmen-us;+MSNcOTH) 404 0 2 1405 306 209
+2009-12-11 15:43:44 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 67.218.116.162 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) 404 0 2 1424 200 83
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 16:03:26
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 16:03:25 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 65.55.106.107 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 404 0 64 0 214 35
+2009-12-11 16:04:17 W3SVC17 67.222.136.138 GET /loseweight.htm - 80 - 65.55.106.107 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 304 0 64 0 316 72
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 17:44:00
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 17:43:59 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 216.129.119.44 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) 404 0 2 1424 201 82
+2009-12-11 17:50:32 W3SVC17 67.222.136.138 GET / - 80 - 66.150.153.187 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+FDM;+Alexa+Toolbar)+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+FunWebProducts;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+MEGAUPLOAD+1.0) 200 0 0 16232 310 114
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 18:07:24
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 18:07:24 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 67.195.112.181 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 195 59
+2009-12-11 18:07:24 W3SVC17 67.222.136.138 GET / - 80 - 67.195.112.181 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 16251 389 170
+2009-12-11 18:08:59 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 65.55.106.135 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 404 0 64 0 214 39
+2009-12-11 18:09:07 W3SVC17 67.222.136.138 GET /index.htm - 80 - 67.195.112.181 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 16251 398 187
+2009-12-11 18:09:58 W3SVC17 67.222.136.138 GET /provenresults.htm - 80 - 67.195.112.181 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 8463 406 125
+2009-12-11 18:10:11 W3SVC17 67.222.136.138 GET /loseweight.htm - 80 - 67.195.112.181 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 9273 403 179
+2009-12-11 18:10:12 W3SVC17 67.222.136.138 GET /lasertherapy.htm - 80 - 65.55.106.135 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 304 0 64 0 318 64
+2009-12-11 18:12:18 W3SVC17 67.222.136.138 GET /takeaction.htm - 80 - 67.195.112.181 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 9188 403 186
+2009-12-11 18:26:18 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 67.195.112.181 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 195 59
+2009-12-11 18:26:18 W3SVC17 67.222.136.138 GET /guidanceadvice.htm - 80 - 67.195.112.181 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 7469 407 125
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 18:55:05
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 18:55:04 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 66.249.71.168 Googlebot-Image/1.0 404 0 2 1405 211 29
+2009-12-11 18:55:04 W3SVC17 67.222.136.138 GET /images/indexlogo_r6_c6.jpg - 80 - 66.249.71.168 Googlebot-Image/1.0 304 0 0 210 260 78
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 19:28:14
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 19:28:14 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 95.108.150.235 Yandex/1.01.001+(compatible;+Win16;+H) 404 0 2 1405 156 228
+2009-12-11 19:28:15 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 95.108.150.235 Yandex/1.01.001+(compatible;+Win16;+H) 404 0 2 1405 161 227
+2009-12-11 19:28:17 W3SVC17 67.222.136.138 GET / - 80 - 95.108.150.235 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 16232 251 535
+2009-12-11 19:28:17 W3SVC17 67.222.136.138 GET / - 80 - 95.108.150.235 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 3427 256 362
+2009-12-11 19:28:19 W3SVC17 67.222.136.138 GET / - 80 - 95.108.150.235 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 3427 251 452
+2009-12-11 19:28:19 W3SVC17 67.222.136.138 GET / - 80 - 95.108.150.235 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 3427 256 353
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 22:06:58
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 22:06:57 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 65.55.107.182 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 404 0 64 0 214 39
+2009-12-11 22:07:47 W3SVC17 67.222.136.138 GET /quitsmoking.htm - 80 - 65.55.107.182 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 304 0 64 0 317 66
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 22:31:30
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 22:31:30 W3SVC17 67.222.136.138 GET / - 80 - 124.115.1.66 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 200 0 0 16232 210 765
+2009-12-11 22:32:06 W3SVC17 67.222.136.138 GET / - 80 - 124.115.10.193 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 200 0 0 16232 248 811
+2009-12-11 22:32:18 W3SVC17 67.222.136.138 GET / - 80 - 124.115.1.62 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 200 0 0 16232 241 815
+2009-12-11 22:33:05 W3SVC17 67.222.136.138 GET / - 80 - 124.115.1.61 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 416 0 0 379 239 252
+2009-12-11 22:41:59 W3SVC17 67.222.136.138 GET / - 80 - 124.115.1.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 200 0 0 16232 210 784
+2009-12-11 22:52:54 W3SVC17 67.222.136.138 GET / - 80 - 124.115.1.59 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 200 0 0 16232 246 712
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-11 23:36:01
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-11 23:36:01 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 65.55.207.135 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 404 0 64 0 219 36
+2009-12-11 23:45:42 W3SVC17 67.222.136.138 GET /takeaction.htm - 80 - 65.55.207.135 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 304 0 64 0 321 35

@@ -1,0 +1,319 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 00:20:13
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 00:20:13 GET /index.htm - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - 304 0 274
+2008-09-21 00:20:13 GET /images/topbar5.gif - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/spacer.gif - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r1_c1.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r2_c1.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r2_c4.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r2_c10.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r4_c4.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r3_c1.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r4_c10.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r4_c9.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r5_c1.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r5_c7.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r5_c11.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r6_c1.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r6_c6.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r7_c1.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r8_c1.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r8_c5.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r9_c1.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r10_c1.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r11_c1.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r12_c1.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r12_c5.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r15_c8.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r14_c1.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r13_c1.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+2008-09-21 00:20:13 GET /images/indexlogo_r15_c1.jpg - - 72.211.145.114 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://www.smokefreetucson.com/ 304 0 191
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 00:47:23
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 00:47:23 GET /index.htm - - 208.80.194.28 HTTP/1.0 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+Maxthon;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.1;+.NET+CLR+3.0.04506.30) - 200 0 16288
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 01:06:32
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 01:06:32 GET /Ira/HDR/bg.jpg - - 68.32.208.204 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 200 0 447451
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 01:28:07
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 01:28:07 GET /index.htm - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 - 200 0 16292
+2008-09-21 01:28:07 GET /images/indexlogo_r2_c1.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 0 2325
+2008-09-21 01:28:07 GET /images/spacer.gif - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 0 269
+2008-09-21 01:28:07 GET /images/topbar5.gif - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 64 0
+2008-09-21 01:28:07 GET /images/indexlogo_r1_c1.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 64 0
+2008-09-21 01:28:07 GET /images/indexlogo_r2_c10.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 0 2101
+2008-09-21 01:28:07 GET /images/indexlogo_r2_c4.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 64 0
+2008-09-21 01:28:07 GET /images/indexlogo_r4_c4.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 0 2625
+2008-09-21 01:28:07 GET /images/indexlogo_r3_c1.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 0 4025
+2008-09-21 01:28:07 GET /images/indexlogo_r4_c10.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 0 1426
+2008-09-21 01:28:07 GET /images/indexlogo_r4_c9.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 0 3567
+2008-09-21 01:28:07 GET /images/indexlogo_r5_c1.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 0 5255
+2008-09-21 01:28:07 GET /images/indexlogo_r5_c7.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 0 4598
+2008-09-21 01:28:07 GET /images/indexlogo_r5_c11.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 0 1101
+2008-09-21 01:28:07 GET /images/indexlogo_r6_c1.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 0 985
+2008-09-21 01:28:07 GET /images/indexlogo_r6_c6.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 0 1445
+2008-09-21 01:28:07 GET /images/indexlogo_r7_c1.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 0 897
+2008-09-21 01:28:07 GET /images/indexlogo_r8_c1.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 0 567
+2008-09-21 01:28:07 GET /images/indexlogo_r8_c5.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 0 936
+2008-09-21 01:28:08 GET /images/indexlogo_r9_c1.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 0 785
+2008-09-21 01:28:08 GET /images/indexlogo_r10_c1.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 0 1082
+2008-09-21 01:28:08 GET /images/indexlogo_r11_c1.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 0 922
+2008-09-21 01:28:08 GET /images/indexlogo_r12_c1.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 0 581
+2008-09-21 01:28:08 GET /images/indexlogo_r12_c5.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 0 960
+2008-09-21 01:28:08 GET /images/indexlogo_r13_c1.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 0 855
+2008-09-21 01:28:08 GET /images/indexlogo_r14_c1.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 0 1066
+2008-09-21 01:28:08 GET /images/indexlogo_r15_c1.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 0 867
+2008-09-21 01:28:08 GET /images/indexlogo_r15_c8.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 200 0 747
+2008-09-21 01:28:08 GET /indexlogo.jpg - - 66.82.9.79 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://www.smokefreetucson.com/ 404 2 1772
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 01:47:52
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 01:47:52 GET /Ira/HDR/bg.jpg - - 72.221.125.171 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 200 0 447451
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 02:24:07
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 02:24:07 GET /Ira/HDR/bg.jpg - - 207.108.121.119 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 200 0 447451
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 02:54:15
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 02:54:15 GET /Ira/HDR/bg.jpg - - 71.125.196.193 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 200 0 447451
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 03:25:28
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 03:25:28 GET /index.htm - - 124.115.0.146 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0) http://www.smokefreetucson.com/ 200 0 16273
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 03:50:17
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 03:50:17 GET /index.htm - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) - 200 0 3416
+2008-09-21 03:50:17 GET /images/indexlogo_r4_c9.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 3567
+2008-09-21 03:50:17 GET /images/spacer.gif - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 269
+2008-09-21 03:50:17 GET /images/indexlogo_r2_c1.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 2325
+2008-09-21 03:50:17 GET /images/indexlogo_r2_c10.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 2101
+2008-09-21 03:50:17 GET /images/indexlogo_r4_c10.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 1426
+2008-09-21 03:50:17 GET /images/indexlogo_r4_c4.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 2625
+2008-09-21 03:50:17 GET /images/indexlogo_r5_c11.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 1101
+2008-09-21 03:50:17 GET /images/indexlogo_r6_c6.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 1445
+2008-09-21 03:50:17 GET /images/indexlogo_r5_c1.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 5255
+2008-09-21 03:50:17 GET /images/indexlogo_r5_c7.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 4598
+2008-09-21 03:50:17 GET /images/indexlogo_r12_c1.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 581
+2008-09-21 03:50:17 GET /images/indexlogo_r11_c1.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 922
+2008-09-21 03:50:17 GET /images/indexlogo_r10_c1.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 1082
+2008-09-21 03:50:17 GET /images/indexlogo_r9_c1.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 785
+2008-09-21 03:50:17 GET /images/indexlogo_r8_c5.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 936
+2008-09-21 03:50:17 GET /images/indexlogo_r8_c1.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 567
+2008-09-21 03:50:17 GET /images/indexlogo_r7_c1.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 897
+2008-09-21 03:50:17 GET /images/indexlogo_r6_c1.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 985
+2008-09-21 03:50:17 GET /images/topbar5.gif - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 21274
+2008-09-21 03:50:17 GET /images/indexlogo_r3_c1.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 4025
+2008-09-21 03:50:17 GET /images/indexlogo_r1_c1.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 9503
+2008-09-21 03:50:17 GET /images/indexlogo_r15_c8.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 747
+2008-09-21 03:50:17 GET /images/indexlogo_r15_c1.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 867
+2008-09-21 03:50:17 GET /images/indexlogo_r14_c1.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 1066
+2008-09-21 03:50:17 GET /images/indexlogo_r13_c1.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 855
+2008-09-21 03:50:17 GET /images/indexlogo_r12_c5.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 960
+2008-09-21 03:50:17 GET /favicon.ico - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) - 404 2 1772
+2008-09-21 03:50:17 GET /images/indexlogo_r2_c4.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 14307
+2008-09-21 03:50:21 GET /quitsmoking.htm - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/ 200 0 2261
+2008-09-21 03:50:21 GET /images/nosmokingsign.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/quitsmoking.htm 200 0 18059
+2008-09-21 03:50:42 GET /lasertherapy.htm - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/quitsmoking.htm 200 0 2290
+2008-09-21 03:50:42 GET /images/laserlady.jpg - - 70.238.196.221 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1)+;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+Windows-Media-Player/10.00.00.3990) http://www.smokefreetucson.com/lasertherapy.htm 200 0 6311
+2008-09-21 03:53:55 GET /Ira/HDR/bg.jpg - - 207.108.121.119 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506;+.NET+CLR+1.1.4322) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 304 0 190
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 04:22:22
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 04:22:21 GET /robots.txt - - 66.249.71.130 HTTP/1.1 Googlebot-Image/1.0 - 404 2 1772
+2008-09-21 04:22:21 GET /images/indexlogo_r5_c1.jpg - - 66.249.71.130 HTTP/1.1 Googlebot-Image/1.0 - 304 0 191
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 04:44:37
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 04:44:37 GET /Ira/HDR/bg.jpg - - 70.210.129.235 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+FunWebProducts) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707 200 0 447451
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 05:03:29
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 05:03:29 GET /index.htm - - 66.249.71.129 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 3411
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 06:32:48
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 06:32:48 GET /robots.txt - - 129.241.50.187 HTTP/1.1 boitho.com-dc/0.82+(+http://www.boitho.com/dcbot.html+) - 404 2 1772
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 07:15:36
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 07:15:36 GET /favicon.ico - - 72.18.150.15 HTTP/1.0 Mozilla/4.0 - 404 2 1791
+2008-09-21 07:29:18 GET /Ira/HDR/bg.jpg - - 68.32.208.204 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04506) http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=383976707&MyToken=5a496ddf-d404-4701-bc7a-dea0ee46132d 200 0 447451
+2008-09-21 07:38:36 GET /Ira/HDR/bg.jpg - - 71.170.106.7 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.1)+Gecko/2008070208+Firefox/3.0.1 http://profileedit.myspace.com/Modules/Profiles/Handlers/UserStyle.ashx?friendId=383976707&styleid=23391 200 0 447451
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 08:43:23
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 08:43:23 GET /backupsupport.htm - - 38.99.44.105 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - 200 0 7398
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 09:35:29
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 09:35:29 GET /backupsupport.htm - - 78.46.88.202 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) - 200 0 7398
+2008-09-21 09:35:32 GET /lasertherapy.htm - - 78.46.88.202 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) - 200 0 8075
+2008-09-21 09:35:32 GET /quitsmoking.htm - - 78.46.88.202 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) - 200 0 7824
+2008-09-21 09:35:36 GET /loseweight.htm - - 78.46.88.202 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) - 200 0 9254
+2008-09-21 09:35:36 GET /guidanceadvice.htm - - 78.46.88.202 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) - 200 0 7448
+2008-09-21 09:35:40 GET /takeaction.htm - - 78.46.88.202 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) - 200 0 9169
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 10:44:28
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 10:44:28 GET /robots.txt - - 64.1.215.162 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - 404 2 1791
+2008-09-21 10:57:22 GET /lasertherapy.htm - - 38.99.44.105 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - 200 0 8075
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 11:51:19
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 11:51:19 GET /robots.txt - - 208.36.144.6 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - 404 2 1791
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 12:44:41
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 12:44:41 GET /robots.txt - - 65.55.212.244 HTTP/1.0 msnbot-media/1.0+(+http://search.msn.com/msnbot.htm) - 404 2 1791
+2008-09-21 12:44:41 GET /quitsmoking.htm - - 65.55.212.244 HTTP/1.0 msnbot-media/1.0+(+http://search.msn.com/msnbot.htm) - 200 0 7824
+2008-09-21 12:45:01 GET /loseweight.htm - - 65.55.212.244 HTTP/1.0 msnbot-media/1.0+(+http://search.msn.com/msnbot.htm) - 200 0 9254
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 13:14:47
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 13:14:47 GET /takeaction.htm - - 65.55.212.244 HTTP/1.0 msnbot-media/1.0+(+http://search.msn.com/msnbot.htm) - 200 0 9169
+2008-09-21 13:23:16 GET /lasertherapy.htm - - 65.55.212.244 HTTP/1.0 msnbot-media/1.0+(+http://search.msn.com/msnbot.htm) - 200 0 8075
+2008-09-21 13:23:19 GET /robots.txt - - 38.99.44.105 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - 404 2 1791
+2008-09-21 13:34:24 GET /provenresults.htm - - 66.249.71.131 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 2408
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 13:51:08
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 13:51:08 GET /Ira/HDR/UniSource1.jpg - - 66.249.71.130 HTTP/1.1 Googlebot-Image/1.0 - 200 0 3412165
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 14:40:23
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 14:40:23 GET /lasertherapy.htm - - 66.249.71.129 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 2290
+2008-09-21 14:42:12 GET /index.htm - - 208.80.194.26 HTTP/1.0 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+Seekmo+10.0.341.0) - 200 0 16283
+2008-09-21 14:51:01 GET /index.htm - - 208.80.194.43 HTTP/1.0 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+BT+Openworld+BB;+SV1;+YPC+3.2.0;+.NET+CLR+1.1.4322) - 200 0 16292
+2008-09-21 15:01:41 GET /Ira/HDR/BMW_EuroPlate_CPG3.jpg - - 66.249.71.130 HTTP/1.1 Googlebot-Image/1.0 - 200 0 4395313
+2008-09-21 15:09:41 GET /index.htm - - 66.249.71.130 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 3356
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 15:31:51
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 15:31:51 GET /robots.txt - - 64.246.178.34 HTTP/1.0 SurveyBot/2.3+(Whois+Source) http://www.whois.sc/ 404 2 1791
+2008-09-21 15:31:51 GET /index.htm - - 64.246.178.34 HTTP/1.1 SurveyBot/2.3+(Whois+Source) http://www.whois.sc/aplttucson.com 206 0 8523
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 15:59:37
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 15:59:37 GET /robots.txt - - 74.6.17.174 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - 404 2 1791
+2008-09-21 15:59:37 GET /annepenman.htm - - 74.6.17.174 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - 200 0 9719
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 18:04:09
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 18:04:09 GET /robots.txt - - 66.249.71.129 HTTP/1.1 Googlebot-Image/1.0 - 404 2 1772
+2008-09-21 18:04:09 GET /images/indexlogo_r5_c7.jpg - - 66.249.71.129 HTTP/1.1 Googlebot-Image/1.0 - 304 0 191
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 19:48:16
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 19:48:16 GET /index.htm - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) - 200 0 3412
+2008-09-21 19:48:16 GET /images/spacer.gif - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 269
+2008-09-21 19:48:16 GET /images/topbar5.gif - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 21274
+2008-09-21 19:48:16 GET /images/indexlogo_r2_c1.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 2325
+2008-09-21 19:48:16 GET /images/indexlogo_r1_c1.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 9503
+2008-09-21 19:48:16 GET /images/indexlogo_r2_c4.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 14307
+2008-09-21 19:48:16 GET /images/indexlogo_r2_c10.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 2101
+2008-09-21 19:48:16 GET /images/indexlogo_r4_c4.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 2625
+2008-09-21 19:48:16 GET /images/indexlogo_r3_c1.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 4025
+2008-09-21 19:48:16 GET /images/indexlogo_r4_c9.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 3567
+2008-09-21 19:48:16 GET /images/indexlogo_r4_c10.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 1426
+2008-09-21 19:48:16 GET /images/indexlogo_r5_c1.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 5255
+2008-09-21 19:48:16 GET /images/indexlogo_r5_c7.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 4598
+2008-09-21 19:48:16 GET /images/indexlogo_r5_c11.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 1101
+2008-09-21 19:48:16 GET /images/indexlogo_r6_c1.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 985
+2008-09-21 19:48:16 GET /images/indexlogo_r6_c6.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 1445
+2008-09-21 19:48:17 GET /images/indexlogo_r7_c1.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 897
+2008-09-21 19:48:17 GET /images/indexlogo_r8_c1.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 567
+2008-09-21 19:48:17 GET /images/indexlogo_r8_c5.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 936
+2008-09-21 19:48:17 GET /images/indexlogo_r9_c1.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 785
+2008-09-21 19:48:17 GET /images/indexlogo_r10_c1.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 1082
+2008-09-21 19:48:17 GET /images/indexlogo_r11_c1.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 922
+2008-09-21 19:48:17 GET /images/indexlogo_r12_c1.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 581
+2008-09-21 19:48:17 GET /images/indexlogo_r12_c5.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 960
+2008-09-21 19:48:17 GET /images/indexlogo_r13_c1.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 855
+2008-09-21 19:48:17 GET /images/indexlogo_r14_c1.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 1066
+2008-09-21 19:48:17 GET /images/indexlogo_r15_c1.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 867
+2008-09-21 19:48:17 GET /images/indexlogo_r15_c8.jpg - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) http://smokefreetucson.com/ 200 0 747
+2008-09-21 19:48:17 GET /favicon.ico - - 71.38.58.168 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506) - 404 2 1772
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 20:28:56
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 20:28:56 GET /images/laserlady.jpg - - 66.249.71.129 HTTP/1.1 Googlebot-Image/1.0 - 304 0 191
+2008-09-21 20:34:00 GET /index.htm - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text - 200 0 3416
+2008-09-21 20:34:00 GET /images/spacer.gif - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 269
+2008-09-21 20:34:00 GET /images/indexlogo_r1_c1.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 9503
+2008-09-21 20:34:00 GET /images/indexlogo_r2_c1.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 2325
+2008-09-21 20:34:00 GET /images/topbar5.gif - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 21274
+2008-09-21 20:34:00 GET /images/indexlogo_r2_c4.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 14307
+2008-09-21 20:34:00 GET /images/indexlogo_r2_c10.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 2101
+2008-09-21 20:34:00 GET /images/indexlogo_r3_c1.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 4025
+2008-09-21 20:34:00 GET /images/indexlogo_r4_c4.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 2625
+2008-09-21 20:34:00 GET /images/indexlogo_r4_c9.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 3567
+2008-09-21 20:34:00 GET /images/indexlogo_r4_c10.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 1426
+2008-09-21 20:34:00 GET /images/indexlogo_r5_c1.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 5255
+2008-09-21 20:34:00 GET /images/indexlogo_r5_c7.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 4598
+2008-09-21 20:34:00 GET /images/indexlogo_r5_c11.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 1101
+2008-09-21 20:34:00 GET /images/indexlogo_r6_c1.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 985
+2008-09-21 20:34:00 GET /images/indexlogo_r6_c6.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 1445
+2008-09-21 20:34:00 GET /images/indexlogo_r7_c1.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 897
+2008-09-21 20:34:00 GET /images/indexlogo_r8_c1.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 567
+2008-09-21 20:34:00 GET /images/indexlogo_r8_c5.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 936
+2008-09-21 20:34:00 GET /images/indexlogo_r9_c1.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 785
+2008-09-21 20:34:00 GET /images/indexlogo_r10_c1.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 1082
+2008-09-21 20:34:00 GET /images/indexlogo_r11_c1.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 922
+2008-09-21 20:34:00 GET /images/indexlogo_r12_c1.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 581
+2008-09-21 20:34:00 GET /images/indexlogo_r12_c5.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 960
+2008-09-21 20:34:00 GET /images/indexlogo_r13_c1.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 855
+2008-09-21 20:34:00 GET /images/indexlogo_r14_c1.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 1066
+2008-09-21 20:34:00 GET /images/indexlogo_r15_c1.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 867
+2008-09-21 20:34:00 GET /favicon.ico - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text - 404 2 1772
+2008-09-21 20:34:00 GET /images/indexlogo_r15_c8.jpg - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text http://www.smokefreetucson.com/ 200 0 747
+2008-09-21 20:34:26 GET /favicon.ico - - 66.150.153.68 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.9)+Gecko/20070118+Red+Hat/1.5.0.9-10.el5+Firefox/1.5.0.9+pango-text - 404 2 1772
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 21:12:10
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 21:12:10 GET /robots.txt - - 65.55.212.244 HTTP/1.0 msnbot-media/1.0+(+http://search.msn.com/msnbot.htm) - 404 2 1791
+2008-09-21 21:12:10 GET /index.htm - - 65.55.212.244 HTTP/1.0 msnbot-media/1.0+(+http://search.msn.com/msnbot.htm) - 200 0 16232
+2008-09-21 21:13:36 GET /backupsupport.htm - - 65.55.212.244 HTTP/1.0 msnbot-media/1.0+(+http://search.msn.com/msnbot.htm) - 200 0 7398
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 21:38:04
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 21:38:04 GET /guidanceadvice.htm - - 65.55.212.244 HTTP/1.0 msnbot-media/1.0+(+http://search.msn.com/msnbot.htm) - 200 0 7448
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-09-21 23:18:35
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-win32-status sc-bytes 
+2008-09-21 23:18:35 GET /quitsmoking.htm - - 38.99.44.105 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - 200 0 7824

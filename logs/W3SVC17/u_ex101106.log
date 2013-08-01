@@ -1,0 +1,82 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-06 01:52:16
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-06 01:52:16 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 67.195.111.42 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 191 74
+2010-11-06 01:52:16 W3SVC17 67.222.136.138 GET / - 80 - 67.195.111.42 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 16623 354 258
+2010-11-06 01:54:24 W3SVC17 67.222.136.138 GET /backupsupport.htm - 80 - 67.195.111.42 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 7419 371 150
+2010-11-06 01:54:49 W3SVC17 67.222.136.138 GET /index.htm - 80 - 67.195.111.42 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 16623 363 192
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-06 02:30:02
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-06 02:30:02 W3SVC17 67.222.136.138 GET / - 80 - 123.125.71.99 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 1460 154 254
+2010-11-06 02:30:32 W3SVC17 67.222.136.138 GET / - 80 - 220.181.108.176 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 2920 154 207
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-06 03:05:16
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-06 03:05:16 W3SVC17 67.222.136.138 GET / - 80 - 208.80.194.37 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.0;+SpamBlockerUtility+4.7.5) 200 0 0 16623 130 113
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-06 05:08:23
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-06 05:08:23 W3SVC17 67.222.136.138 GET / - 80 - 123.125.71.97 Baiduspider+(+http://www.baidu.com/search/spider.htm) 304 0 0 229 282 472
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-06 06:24:36
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-06 06:24:36 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 67.195.37.176 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 195 75
+2010-11-06 06:24:36 W3SVC17 67.222.136.138 GET / - 80 - 67.195.37.176 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 16623 358 249
+2010-11-06 06:33:30 W3SVC17 67.222.136.138 GET /index.htm - 80 - 67.195.37.176 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 16623 367 228
+2010-11-06 06:41:34 W3SVC17 67.222.136.138 GET /refund_policy - 80 - 184.106.151.213 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_4;+en-us)+AppleWebKit/533.18.1+(KHTML,+like+Gecko)+Version/5.0.2+Safari/533.18.5 404 0 2 1405 226 28
+2010-11-06 06:41:34 W3SVC17 67.222.136.138 GET /product_info.php products_id=220 80 - 184.106.151.213 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_4;+en-us)+AppleWebKit/533.18.1+(KHTML,+like+Gecko)+Version/5.0.2+Safari/533.18.5 404 0 2 1405 245 30
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-06 07:09:40
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-06 07:09:40 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 67.195.115.232 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 196 60
+2010-11-06 07:09:40 W3SVC17 67.222.136.138 GET / - 80 - 67.195.115.232 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 16623 359 219
+2010-11-06 07:11:10 W3SVC17 67.222.136.138 GET / - 80 - 208.80.194.26 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.0;+JP+Rev10;+.NET+CLR+1.1.4322) 200 0 0 16623 10615 199
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-06 07:27:12
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-06 07:27:12 W3SVC17 67.222.136.138 GET / - 80 - 123.125.71.117 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 2920 150 431
+2010-11-06 07:27:37 W3SVC17 67.222.136.138 GET / - 80 - 220.181.108.179 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 1460 150 224
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-06 07:58:08
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-06 07:58:08 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 67.195.37.190 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 200 72
+2010-11-06 07:58:08 W3SVC17 67.222.136.138 GET /loseweight.htm - 80 - 67.195.37.190 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 9273 377 234
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-06 10:08:50
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-06 10:08:50 W3SVC17 67.222.136.138 GET / - 80 - 123.125.71.109 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0 16623 192 676
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-06 12:08:30
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-06 12:08:30 W3SVC17 67.222.136.138 GET / - 80 - 208.80.194.32 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+iebar;+acc=;+acc=none;+FreeprodTB;+FunWebProducts;+.NET+CLR+1.0.3705;+HbTools+4.7.7) 200 0 0 16623 194 148
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-06 15:14:35
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-06 15:14:35 W3SVC17 67.222.136.138 GET /favicon.ico - 80 - 174.30.178.34 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;++MSN+9.0;MSN+9.1;MSN+9.6;MSN+10.0;+MSNbQ002;+MSNmen-us;+MSNcOTH) 404 0 2 1405 315 310
+2010-11-06 15:23:37 W3SVC17 67.222.136.138 GET / - 80 - 123.125.71.111 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 1460 155 234
+2010-11-06 15:23:55 W3SVC17 67.222.136.138 GET / - 80 - 220.181.108.181 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 1460 155 241
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-06 20:01:29
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-06 20:01:29 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 67.195.37.190 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 200 70
+2010-11-06 20:01:29 W3SVC17 67.222.136.138 GET /takeaction.htm - 80 - 67.195.37.190 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 9189 377 259
+2010-11-06 20:03:19 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 64.246.178.34 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) 404 0 2 1424 291 45
+2010-11-06 20:03:19 W3SVC17 67.222.136.138 GET / - 80 - 64.246.178.34 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) 200 0 0 16604 483 146
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-06 21:49:28
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-06 21:49:28 W3SVC17 67.222.136.138 GET / - 80 - 208.80.194.36 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+Mozilla/4.0(Compatible-EmbeddedWB+14.59+http://bsalsa.com/++Embedded+Web+Browser+from:+http://bsalsa.com/;+.NET+CLR+1.1.4322) 200 0 0 16623 239 115

@@ -1,0 +1,291 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 00:00:07
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 00:00:07 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 206.163.123.217 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.1)+Gecko/20060124+Firefox/1.5.0.1 - http://aplttucson.com/ aplttucson.com 200 0 0 16264 287 484
+2008-10-14 00:00:13 W3SVC99459315 ELIX1 72.167.249.181 GET /backupsupport.htm - 80 - 206.163.123.217 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.1)+Gecko/20060124+Firefox/1.5.0.1 - http://aplttucson.com/backupsupport.htm aplttucson.com 200 0 0 7379 321 171
+2008-10-14 00:00:15 W3SVC99459315 ELIX1 72.167.249.181 GET /takeaction.htm - 80 - 206.163.123.217 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.1)+Gecko/20060124+Firefox/1.5.0.1 - http://aplttucson.com/takeaction.htm aplttucson.com 200 0 0 9150 315 218
+2008-10-14 00:00:28 W3SVC99459315 ELIX1 72.167.249.181 GET /provenresults.htm - 80 - 206.163.123.217 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.1)+Gecko/20060124+Firefox/1.5.0.1 - http://aplttucson.com/provenresults.htm aplttucson.com 200 0 0 8425 321 187
+2008-10-14 00:00:34 W3SVC99459315 ELIX1 72.167.249.181 GET /guidanceadvice.htm - 80 - 206.163.123.217 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.1)+Gecko/20060124+Firefox/1.5.0.1 - http://aplttucson.com/guidanceadvice.htm aplttucson.com 200 0 0 7429 323 156
+2008-10-14 00:00:44 W3SVC99459315 ELIX1 72.167.249.181 GET /lasertherapy.htm - 80 - 206.163.123.217 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+i686+(x86_64);+en-US;+rv:1.8.0.1)+Gecko/20060124+Firefox/1.5.0.1 - http://aplttucson.com/lasertherapy.htm aplttucson.com 200 0 0 8056 319 328
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 01:25:06
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 01:25:06 W3SVC99459315 ELIX1 72.167.249.181 GET /favicon.ico - 80 - 71.220.160.241 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+FunWebProducts;+.NET+CLR+1.1.4322;+InfoPath.2;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;++MSN+9.0;MSN+9.1;+MSNbQ002;+MSNmen-us;+MSNcOTH) - - www.smokefreetucson.com 404 0 2 1772 390 93
+2008-10-14 01:28:45 W3SVC99459315 ELIX1 72.167.249.181 GET /quitsmoking.htm - 80 - 208.96.54.72 HTTP/1.1 Mozilla/5.0+(compatible;+discobot/1.0;++http://discoveryengine.com/discobot.html) - - www.aplttucson.com 200 0 0 7824 186 93
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 02:04:01
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 02:04:01 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 66.150.153.167 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+{0F47802C-547B-437A-B13A-B4B2CA09FE27};+.NET+CLR+1.1.4322;+.NET+CLR+1.0.3705;+Creative+ZENcast+v1.02.10;+SpamBlockerUtility+4.8.4;+.NET+CLR+2.0.50727) - - www.aplttucson.com 200 0 0 16268 435 46
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 02:24:34
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 02:24:34 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 208.36.144.6 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - www.aplttucson.com 200 0 0 16287 190 78
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 02:41:01
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 02:41:01 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 208.80.194.28 HTTP/1.0 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+FunWebProducts;+iebar;+.NET+CLR+1.1.4322) - - www.aplttucson.com 200 0 0 16287 150 93
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 02:56:35
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 02:56:34 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 75.11.164.156 HTTP/1.1 BrightCrawler+1.0+(http://www.brightcloud.com/brightcrawler.asp;+brightcrawler@brightcloud.com) - - smokefreetucson.com 200 0 0 16269 178 343
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 03:34:23
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 03:34:23 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 38.108.180.95 HTTP/1.1 Mozilla/5.0+(compatible;+ScoutJet;++http://www.scoutjet.com/) - - www.aplttucson.com 404 0 2 1791 184 31
+2008-10-14 03:34:23 W3SVC99459315 ELIX1 72.167.249.181 GET /annepenman.htm - 80 - 38.108.180.95 HTTP/1.1 Mozilla/5.0+(compatible;+ScoutJet;++http://www.scoutjet.com/) - - www.aplttucson.com 200 0 0 3080 188 78
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 05:10:43
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 05:10:43 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 38.99.44.105 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - smokefreetucson.com 200 0 0 16288 191 93
+2008-10-14 05:13:28 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727) - http://web.carondelet.org/News/Communications/Tobacco/Tobacco-free%20Resources.htm www.aplttucson.com 200 0 0 16268 429 109
+2008-10-14 05:13:28 W3SVC99459315 ELIX1 72.167.249.181 GET /images/spacer.gif - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;) - - www.aplttucson.com 200 0 0 269 210 31
+2008-10-14 05:13:28 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r2_c1.jpg - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;) - - www.aplttucson.com 200 0 0 2325 219 31
+2008-10-14 05:13:28 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r4_c4.jpg - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;) - - www.aplttucson.com 200 0 0 2625 219 15
+2008-10-14 05:13:28 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r2_c10.jpg - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;) - - www.aplttucson.com 200 0 0 2101 220 31
+2008-10-14 05:13:28 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r5_c1.jpg - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;) - - www.aplttucson.com 200 0 0 5255 219 46
+2008-10-14 05:13:28 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r12_c5.jpg - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;) - - www.aplttucson.com 200 0 0 960 220 93
+2008-10-14 05:13:28 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r9_c1.jpg - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;) - - www.aplttucson.com 200 0 0 785 219 93
+2008-10-14 05:13:28 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r7_c1.jpg - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;) - - www.aplttucson.com 200 0 0 897 219 93
+2008-10-14 05:13:28 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r4_c10.jpg - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;) - - www.aplttucson.com 200 0 0 1426 220 93
+2008-10-14 05:13:28 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r8_c1.jpg - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;) - - www.aplttucson.com 200 0 0 567 219 93
+2008-10-14 05:13:28 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r10_c1.jpg - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;) - - www.aplttucson.com 200 0 0 1082 220 93
+2008-10-14 05:13:28 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r12_c1.jpg - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;) - - www.aplttucson.com 200 0 0 581 220 93
+2008-10-14 05:13:28 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r2_c4.jpg - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;) - - www.aplttucson.com 200 0 0 14307 219 109
+2008-10-14 05:13:28 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r1_c1.jpg - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;) - - www.aplttucson.com 200 0 0 9503 219 171
+2008-10-14 05:13:28 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r13_c1.jpg - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;) - - www.aplttucson.com 200 0 0 855 220 124
+2008-10-14 05:13:28 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r4_c9.jpg - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;) - - www.aplttucson.com 200 0 0 3567 219 156
+2008-10-14 05:13:28 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r3_c1.jpg - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;) - - www.aplttucson.com 200 0 0 4025 219 156
+2008-10-14 05:13:28 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r11_c1.jpg - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;) - - www.aplttucson.com 200 0 0 922 220 124
+2008-10-14 05:13:28 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r15_c1.jpg - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;) - - www.aplttucson.com 200 0 0 867 220 124
+2008-10-14 05:13:28 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r14_c1.jpg - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;) - - www.aplttucson.com 200 0 0 1066 220 124
+2008-10-14 05:13:28 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r15_c8.jpg - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;) - - www.aplttucson.com 200 0 0 747 220 124
+2008-10-14 05:13:28 W3SVC99459315 ELIX1 72.167.249.181 GET /images/topbar5.gif - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;) - - www.aplttucson.com 200 0 0 21274 211 203
+2008-10-14 05:13:30 W3SVC99459315 ELIX1 72.167.249.181 GET /favicon.ico - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727) - - www.aplttucson.com 404 0 2 1772 270 31
+2008-10-14 05:13:56 W3SVC99459315 ELIX1 72.167.249.181 GET /lasertherapy.htm - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 8056 389 15
+2008-10-14 05:13:56 W3SVC99459315 ELIX1 72.167.249.181 GET /images/laserlady.jpg - 80 - 209.150.89.225 HTTP/1.1 Mozilla/4.0+(compatible;) - - www.aplttucson.com 200 0 0 6311 213 109
+2008-10-14 05:13:56 W3SVC99459315 ELIX1 72.167.249.181 GET /backupsupport.htm - 80 - 208.36.144.6 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - www.aplttucson.com 200 0 0 7398 207 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 05:54:20
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 05:54:20 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 193.47.80.39 HTTP/1.1 Mozilla/5.0+(compatible;+Exabot/3.0;++http://www.exabot.com/go/robot) - - www.aplttucson.com 404 0 2 1791 261 140
+2008-10-14 05:54:20 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 193.47.80.39 HTTP/1.1 Mozilla/5.0+(compatible;+Exabot/3.0;++http://www.exabot.com/go/robot) - - www.aplttucson.com 200 0 0 3430 340 265
+2008-10-14 06:05:07 W3SVC99459315 ELIX1 72.167.249.181 GET /backupsupport.htm - 80 - 38.99.44.105 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - smokefreetucson.com 200 0 0 7398 208 78
+2008-10-14 06:08:56 W3SVC99459315 ELIX1 72.167.249.181 GET /provenresults.htm - 80 - 38.99.44.105 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - smokefreetucson.com 200 0 0 8444 208 62
+2008-10-14 06:14:36 W3SVC99459315 ELIX1 72.167.249.181 GET /takeaction.htm - 80 - 208.36.144.6 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - www.aplttucson.com 200 0 0 9169 204 78
+2008-10-14 06:24:04 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 208.96.54.72 HTTP/1.1 Mozilla/5.0+(compatible;+discobot/1.0;++http://discoveryengine.com/discobot.html) - - www.aplttucson.com 200 0 0 16287 171 2203
+2008-10-14 06:31:18 W3SVC99459315 ELIX1 72.167.249.181 GET /lasertherapy.htm - 80 - 208.36.144.6 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - www.aplttucson.com 200 0 0 8075 206 46
+2008-10-14 06:31:59 W3SVC99459315 ELIX1 72.167.249.181 GET /lasertherapy.htm - 80 - 38.99.44.105 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - smokefreetucson.com 200 0 0 8075 207 46
+2008-10-14 06:36:21 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 64.1.215.162 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - www.smokefreetucson.com 200 0 0 16292 195 78
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 07:14:53
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 07:14:53 W3SVC99459315 ELIX1 72.167.249.181 GET /provenresults.htm - 80 - 208.36.144.6 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - www.aplttucson.com 200 0 0 8444 207 78
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 07:37:30
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 07:37:30 W3SVC99459315 ELIX1 72.167.249.181 GET /annepenman.htm - 80 - 208.36.144.6 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - www.aplttucson.com 200 0 0 9719 204 78
+2008-10-14 07:45:57 W3SVC99459315 ELIX1 72.167.249.181 GET /guidanceadvice.htm - 80 - 208.36.144.6 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - www.aplttucson.com 200 0 0 7448 208 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 08:19:06
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 08:19:06 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 66.231.188.22 HTTP/1.0 Gigabot/3.0+(http://www.gigablast.com/spider.html) - - www.smokefreetucson.com 404 0 2 1791 298 31
+2008-10-14 08:19:06 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 66.231.189.39 HTTP/1.0 Gigabot/3.0+(http://www.gigablast.com/spider.html) - - www.smokefreetucson.com 200 0 0 16292 288 78
+2008-10-14 08:26:10 W3SVC99459315 ELIX1 72.167.249.181 GET /takeaction.htm - 80 - 64.1.215.162 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - www.smokefreetucson.com 200 0 0 9169 209 78
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 08:48:57
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 08:48:57 W3SVC99459315 ELIX1 72.167.249.181 GET /provenresults.htm - 80 - 64.1.215.162 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - www.smokefreetucson.com 200 0 0 8444 212 46
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 09:54:31
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 09:54:31 W3SVC99459315 ELIX1 72.167.249.181 GET /quitsmoking.htm - 80 - 38.99.44.105 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - smokefreetucson.com 200 0 0 7824 206 62
+2008-10-14 10:09:24 W3SVC99459315 ELIX1 72.167.249.181 GET /loseweight.htm - 80 - 38.99.44.105 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - smokefreetucson.com 200 0 0 9254 205 78
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 10:35:53
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 10:35:53 W3SVC99459315 ELIX1 72.167.249.181 GET /quitsmoking.htm - 80 - 208.36.144.6 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - www.aplttucson.com 200 0 0 7824 205 46
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 11:41:10
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 11:41:09 W3SVC99459315 ELIX1 72.167.249.181 GET /lasertherapy.htm - 80 - 80.77.80.253 HTTP/1.1 - - - www.aplttucson.com 200 0 0 8075 104 171
+2008-10-14 11:51:08 W3SVC99459315 ELIX1 72.167.249.181 GET /guidanceadvice.htm - 80 - 38.99.44.105 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - smokefreetucson.com 200 0 0 7448 209 78
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 12:31:43
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 12:31:43 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 66.249.73.75 HTTP/1.1 Googlebot-Image/1.0 - - www.aplttucson.com 404 0 2 1772 206 46
+2008-10-14 12:31:46 W3SVC99459315 ELIX1 72.167.249.181 GET /Ira/HDR/Buell_Quarry_Pits.jpg - 80 - 66.249.73.75 HTTP/1.1 Googlebot-Image/1.0 - - www.aplttucson.com 200 0 0 3784029 208 2703
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 13:03:08
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 13:03:08 W3SVC99459315 ELIX1 72.167.249.181 GET /Ira/Gallery.htm - 80 - 66.249.73.75 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.aplttucson.com 304 0 0 213 297 46
+2008-10-14 13:09:40 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 64.1.215.162 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - www.smokefreetucson.com 404 0 2 1791 205 31
+2008-10-14 13:17:20 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 207.200.116.200 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://aolsearcht5.search.aol.com/aol/search?invocationType=wscreen-searchboxhtml&query=laser+quit+smoking+in+tucson+arizona&do=Search www.aplttucson.com 200 0 0 16268 563 62
+2008-10-14 13:17:21 W3SVC99459315 ELIX1 72.167.249.181 GET /images/spacer.gif - 80 - 207.200.116.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 269 472 15
+2008-10-14 13:17:21 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r1_c1.jpg - 80 - 207.200.116.74 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 9503 481 62
+2008-10-14 13:17:21 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r2_c1.jpg - 80 - 207.200.116.139 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 2325 481 31
+2008-10-14 13:17:21 W3SVC99459315 ELIX1 72.167.249.181 GET /images/topbar5.gif - 80 - 207.200.116.13 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 21274 473 78
+2008-10-14 13:17:21 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r2_c10.jpg - 80 - 207.200.116.14 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 2101 482 15
+2008-10-14 13:17:21 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r2_c4.jpg - 80 - 207.200.116.197 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 14307 481 78
+2008-10-14 13:17:21 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r3_c1.jpg - 80 - 207.200.116.195 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 4025 481 46
+2008-10-14 13:17:21 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r4_c4.jpg - 80 - 207.200.116.199 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 2625 481 31
+2008-10-14 13:17:21 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r4_c10.jpg - 80 - 207.200.116.14 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 1426 482 15
+2008-10-14 13:17:22 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r4_c9.jpg - 80 - 207.200.116.204 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 3567 481 31
+2008-10-14 13:17:22 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r5_c1.jpg - 80 - 207.200.116.197 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 5255 481 15
+2008-10-14 13:17:22 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r5_c7.jpg - 80 - 207.200.116.203 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 4598 481 46
+2008-10-14 13:17:22 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r5_c11.jpg - 80 - 207.200.116.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 1101 482 15
+2008-10-14 13:17:22 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r6_c6.jpg - 80 - 207.200.116.203 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 1445 481 31
+2008-10-14 13:17:22 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r6_c1.jpg - 80 - 207.200.116.5 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 985 481 15
+2008-10-14 13:17:22 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r7_c1.jpg - 80 - 207.200.116.199 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 897 481 15
+2008-10-14 13:17:22 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r8_c1.jpg - 80 - 207.200.116.200 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 567 481 31
+2008-10-14 13:17:22 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r8_c5.jpg - 80 - 207.200.116.204 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 936 481 15
+2008-10-14 13:17:22 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r9_c1.jpg - 80 - 207.200.116.201 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 785 481 15
+2008-10-14 13:17:22 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r10_c1.jpg - 80 - 207.200.116.201 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 1082 482 15
+2008-10-14 13:17:22 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r11_c1.jpg - 80 - 207.200.116.14 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 922 482 15
+2008-10-14 13:17:22 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r12_c1.jpg - 80 - 207.200.116.203 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 581 482 15
+2008-10-14 13:17:23 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r12_c5.jpg - 80 - 207.200.116.7 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 960 482 15
+2008-10-14 13:17:23 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r14_c1.jpg - 80 - 207.200.116.5 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 1066 482 15
+2008-10-14 13:17:23 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r13_c1.jpg - 80 - 207.200.116.14 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 855 482 15
+2008-10-14 13:17:23 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r15_c1.jpg - 80 - 207.200.116.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 867 482 15
+2008-10-14 13:17:23 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r15_c8.jpg - 80 - 207.200.116.13 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 747 482 15
+2008-10-14 13:18:42 W3SVC99459315 ELIX1 72.167.249.181 GET /quitsmoking.htm - 80 - 207.200.116.130 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 7805 631 46
+2008-10-14 13:18:42 W3SVC99459315 ELIX1 72.167.249.181 GET /images/nosmokingsign.jpg - 80 - 207.200.116.67 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322) - http://www.aplttucson.com/quitsmoking.htm www.aplttucson.com 200 0 0 18059 494 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 14:44:04
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 14:44:04 W3SVC99459315 ELIX1 72.167.249.181 GET /guidanceadvice.htm - 80 - 64.1.215.162 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - www.smokefreetucson.com 200 0 0 7448 213 62
+2008-10-14 14:48:48 W3SVC99459315 ELIX1 72.167.249.181 GET /Ira/HDR/BUELL_abandoned.jpg - 80 - 66.249.73.75 HTTP/1.1 Googlebot-Image/1.0 - - www.aplttucson.com 200 0 0 3319906 206 2390
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 15:09:06
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 15:09:06 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.google.com/search?hl=en&q=smokefreetucson.com&btnG=Google+Search&aq=f&oq= www.aplttucson.com 200 0 0 3411 486 265
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/spacer.gif - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 269 398 31
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r2_c1.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 2325 407 31
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r2_c10.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 2101 408 31
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/topbar5.gif - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 21274 399 93
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r4_c4.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 2625 407 31
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r3_c1.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 4025 407 46
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r4_c10.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 1426 408 31
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r4_c9.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 3567 407 31
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r5_c1.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 5255 407 31
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r1_c1.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 9503 407 109
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r5_c7.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 4598 407 46
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r5_c11.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 1101 408 46
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r6_c1.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 985 407 46
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r2_c4.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 14307 407 125
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r7_c1.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 897 407 31
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r6_c6.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 1445 407 31
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r8_c5.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 936 407 31
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r8_c1.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 567 407 31
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r9_c1.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 785 407 31
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r12_c1.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 581 408 31
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r10_c1.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 1082 408 31
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r11_c1.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 922 408 218
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r14_c1.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 1066 408 218
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r13_c1.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 855 408 218
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r12_c5.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 960 408 218
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r15_c8.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 747 408 218
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r15_c1.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 867 408 218
+2008-10-14 15:09:41 W3SVC99459315 ELIX1 72.167.249.181 GET /favicon.ico - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - - www.aplttucson.com 404 0 2 1772 355 15
+2008-10-14 15:09:45 W3SVC99459315 ELIX1 72.167.249.181 GET /favicon.ico - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - - www.aplttucson.com 404 0 2 1772 385 46
+2008-10-14 15:10:25 W3SVC99459315 ELIX1 72.167.249.181 GET /lasertherapy.htm - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/ www.aplttucson.com 200 0 0 2290 427 31
+2008-10-14 15:10:25 W3SVC99459315 ELIX1 72.167.249.181 GET /images/laserlady.jpg - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - http://www.aplttucson.com/lasertherapy.htm www.aplttucson.com 200 0 0 6311 417 218
+2008-10-14 15:13:10 W3SVC99459315 ELIX1 72.167.249.181 GET /favicon.ico - 80 - 68.104.209.62 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.3)+Gecko/2008092417+Firefox/3.0.3 - - www.aplttucson.com 404 0 2 1772 385 31
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 15:54:23
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 15:54:22 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 208.36.144.6 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - www.aplttucson.com 404 0 2 1791 200 31
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 16:10:54
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 16:10:54 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 88.111.33.29 HTTP/1.1 Site+Sniper+Pro - - www.aplttucson.com 200 0 64 0 73 453
+2008-10-14 16:10:54 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 88.111.33.29 HTTP/1.1 Site+Sniper+Pro - - www.aplttucson.com 206 0 64 0 178 484
+2008-10-14 16:10:55 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 88.111.33.29 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.0.3705;+FDM;+.NET+CLR+2.0.50727) - - www.aplttucson.com 200 0 0 3411 363 609
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 16:35:03
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 16:35:03 W3SVC99459315 ELIX1 72.167.249.181 GET /lasertherapy.htm - 80 - 64.1.215.162 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - www.smokefreetucson.com 200 0 0 8075 211 62
+2008-10-14 16:39:56 W3SVC99459315 ELIX1 72.167.249.181 GET /loseweight.htm - 80 - 208.36.144.6 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - www.aplttucson.com 200 0 0 9254 204 78
+2008-10-14 16:49:02 W3SVC99459315 ELIX1 72.167.249.181 GET /annepenman.htm - 80 - 38.99.44.105 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - smokefreetucson.com 200 0 0 9719 205 93
+2008-10-14 16:59:06 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 88.111.33.29 HTTP/1.1 Site+Sniper+Pro - - www.aplttucson.com 200 0 64 0 162 765
+2008-10-14 16:59:08 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 88.111.33.29 HTTP/1.1 Site+Sniper+Pro - - www.aplttucson.com 206 0 64 0 178 734
+2008-10-14 16:59:09 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 88.111.33.29 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.0.3705;+FDM;+.NET+CLR+2.0.50727) - - www.aplttucson.com 200 0 0 3411 363 859
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 17:21:25
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 17:21:25 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 88.111.33.29 HTTP/1.1 Site+Sniper+Pro - - www.aplttucson.com 200 0 64 0 162 437
+2008-10-14 17:21:26 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 88.111.33.29 HTTP/1.1 Site+Sniper+Pro - - www.aplttucson.com 206 0 64 0 178 390
+2008-10-14 17:21:26 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 88.111.33.29 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.0.3705;+FDM;+.NET+CLR+2.0.50727) - - www.aplttucson.com 200 0 0 3411 363 515
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 17:41:03
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 17:41:03 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 193.47.80.47 HTTP/1.1 Mozilla/5.0+(compatible;+Exabot/3.0;++http://www.exabot.com/go/robot) - - www.smokefreetucson.com 404 0 2 1791 266 203
+2008-10-14 17:41:03 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 193.47.80.47 HTTP/1.1 Mozilla/5.0+(compatible;+Exabot/3.0;++http://www.exabot.com/go/robot) - - www.smokefreetucson.com 200 0 0 3435 345 390
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 18:03:53
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 18:03:53 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 131.107.65.41 HTTP/1.1 MSR-ISRCCrawler - - www.aplttucson.com 404 0 2 1772 113 46
+2008-10-14 18:04:33 W3SVC99459315 ELIX1 72.167.249.181 GET /loseweight.htm - 80 - 131.107.65.41 HTTP/1.1 MSR-ISRCCrawler - - www.aplttucson.com 200 0 0 9235 117 1750
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 18:47:10
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 18:47:10 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 38.99.44.105 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - smokefreetucson.com 404 0 2 1791 201 31
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 20:01:53
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 20:01:53 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 65.55.105.63 HTTP/1.1 msnbot/1.1+(+http://search.msn.com/msnbot.htm) - - www.smokefreetucson.com 404 0 2 1791 214 78
+2008-10-14 20:01:53 W3SVC99459315 ELIX1 72.167.249.181 GET /takeaction.htm - 80 - 65.55.105.63 HTTP/1.1 msnbot/1.1+(+http://search.msn.com/msnbot.htm) - - www.smokefreetucson.com 304 0 64 0 341 78
+2008-10-14 20:06:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r4_c4.jpg - 80 - 66.249.73.75 HTTP/1.1 Googlebot-Image/1.0 - - www.aplttucson.com 304 0 0 191 255 46
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 20:24:40
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 20:24:40 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 88.111.33.29 HTTP/1.1 Site+Sniper+Pro - - www.aplttucson.com 200 0 64 0 162 484
+2008-10-14 20:24:40 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 88.111.33.29 HTTP/1.1 Site+Sniper+Pro - - www.aplttucson.com 206 0 64 0 178 484
+2008-10-14 20:24:42 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 88.111.33.29 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.0.3705;+FDM;+.NET+CLR+2.0.50727) - - www.aplttucson.com 200 0 0 3411 363 640
+2008-10-14 20:25:48 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 88.111.33.29 HTTP/1.1 Site+Sniper+Pro - - aplttucson.com 200 0 64 0 69 453
+2008-10-14 20:25:48 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 88.111.33.29 HTTP/1.1 Site+Sniper+Pro - - aplttucson.com 206 0 64 0 174 453
+2008-10-14 20:26:02 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 88.111.33.29 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.0.3705;+FDM;+.NET+CLR+2.0.50727) - - aplttucson.com 200 0 0 3407 359 640
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 21:12:47
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 21:12:47 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 65.55.105.82 HTTP/1.1 msnbot/1.1+(+http://search.msn.com/msnbot.htm) - - www.smokefreetucson.com 404 0 2 1791 214 93
+2008-10-14 21:12:47 W3SVC99459315 ELIX1 72.167.249.181 GET /lasertherapy.htm - 80 - 65.55.105.82 HTTP/1.1 msnbot/1.1+(+http://search.msn.com/msnbot.htm) - - www.smokefreetucson.com 304 0 0 233 343 78
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 21:51:56
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 21:51:56 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 75.11.162.241 HTTP/1.1 BrightCrawler+1.0+(http://www.brightcloud.com/brightcrawler.asp;+brightcrawler@brightcloud.com) - - smokefreetucson.com 200 0 0 16269 178 406
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-10-14 23:42:26
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-10-14 23:42:26 W3SVC99459315 ELIX1 72.167.249.181 GET /loseweight.htm - 80 - 64.1.215.162 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - www.smokefreetucson.com 200 0 0 9254 209 78

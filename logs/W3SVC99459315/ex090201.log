@@ -1,0 +1,146 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2009-02-01 00:42:44
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2009-02-01 00:42:44 W3SVC99459315 ELIX1 72.167.249.181 GET /favicon.ico - 80 - 71.220.145.235 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;++MSN+9.0;MSN+9.1;MSN+9.6;+MSNbQ002;+MSNmen-us;+MSNcOTH) - - smokefreetucson.com 404 0 2 1772 294 78
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2009-02-01 01:00:11
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2009-02-01 01:00:11 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 89.0.54.114 HTTP/1.1 Java/1.6.0_11 - - www.smokefreetucson.com 200 0 0 16273 162 953
+2009-02-01 01:14:38 W3SVC99459315 ELIX1 72.167.249.181 GET /takeaction.htm - 80 - 89.0.54.114 HTTP/1.1 Java/1.6.0_11 - - www.smokefreetucson.com 200 0 0 9150 176 890
+2009-02-01 01:21:29 W3SVC99459315 ELIX1 72.167.249.181 GET /favicon.ico - 80 - 71.220.145.235 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;++MSN+9.0;MSN+9.1;MSN+9.6;+MSNbQ002;+MSNmen-us;+MSNcOTH) - - smokefreetucson.com 404 0 2 1772 294 156
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2009-02-01 02:08:25
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2009-02-01 02:08:25 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 66.235.124.15 HTTP/1.1 Mozilla/5.0+(compatible;+Ask+Jeeves/Teoma;++http://about.ask.com/en/docs/about/webmasters.shtml) - - www.aplttucson.com 404 0 2 1772 222 62
+2009-02-01 02:08:55 W3SVC99459315 ELIX1 72.167.249.181 GET /provenresults.htm - 80 - 66.235.124.15 HTTP/1.1 Mozilla/5.0+(compatible;+Ask+Jeeves/Teoma;++http://about.ask.com/en/docs/about/webmasters.shtml) - - www.aplttucson.com 200 0 0 2427 264 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2009-02-01 02:54:59
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2009-02-01 02:54:59 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 66.249.71.187 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.aplttucson.com 404 0 2 1772 259 62
+2009-02-01 02:54:59 W3SVC99459315 ELIX1 72.167.249.181 GET /provenresults.htm - 80 - 66.249.71.187 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.aplttucson.com 304 0 0 214 299 93
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2009-02-01 03:19:54
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2009-02-01 03:19:54 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 89.0.54.114 HTTP/1.1 Java/1.6.0_11 - - www.aplttucson.com 200 0 0 16213 166 3374
+2009-02-01 03:24:37 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 82.99.30.19 HTTP/1.0 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) - - www.aplttucson.com 200 0 0 16287 144 656
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2009-02-01 05:17:29
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2009-02-01 05:17:29 W3SVC99459315 ELIX1 72.167.249.181 GET /guidanceadvice.htm - 80 - 66.249.71.186 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.aplttucson.com 304 0 0 213 300 78
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2009-02-01 06:01:56
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2009-02-01 06:01:56 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 66.235.124.15 HTTP/1.1 Mozilla/5.0+(compatible;+Ask+Jeeves/Teoma;++http://about.ask.com/en/docs/about/webmasters.shtml) - - www.aplttucson.com 404 0 2 1772 222 62
+2009-02-01 06:02:25 W3SVC99459315 ELIX1 72.167.249.181 GET /annepenman.htm - 80 - 66.235.124.15 HTTP/1.1 Mozilla/5.0+(compatible;+Ask+Jeeves/Teoma;++http://about.ask.com/en/docs/about/webmasters.shtml) - - www.aplttucson.com 200 0 0 3080 261 125
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2009-02-01 10:27:58
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2009-02-01 10:27:58 W3SVC99459315 ELIX1 72.167.249.181 GET /lasertherapy.htm - 80 - 66.249.71.187 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.aplttucson.com 304 0 0 214 298 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2009-02-01 10:51:34
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2009-02-01 10:51:34 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 66.235.124.4 HTTP/1.1 Mozilla/5.0+(compatible;+Ask+Jeeves/Teoma;++http://about.ask.com/en/docs/about/webmasters.shtml) - - smokefreetucson.com 404 0 2 1772 223 62
+2009-02-01 10:52:04 W3SVC99459315 ELIX1 72.167.249.181 GET /backupsupport.htm - 80 - 66.235.124.4 HTTP/1.1 Mozilla/5.0+(compatible;+Ask+Jeeves/Teoma;++http://about.ask.com/en/docs/about/webmasters.shtml) - - smokefreetucson.com 200 0 0 2116 265 78
+2009-02-01 11:04:27 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 66.249.71.186 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.aplttucson.com 200 0 0 3411 232 124
+2009-02-01 11:11:39 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 174.133.28.170 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.0;+.NET+CLR+1.0.3705) - - smokefreetucson.com 200 0 0 16269 214 109
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2009-02-01 12:46:26
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2009-02-01 12:46:25 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 72.30.142.169 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - smokefreetucson.com 404 0 2 1791 196 62
+2009-02-01 12:46:27 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 72.30.142.169 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - smokefreetucson.com 200 0 0 16288 231 171
+2009-02-01 12:50:07 W3SVC99459315 ELIX1 72.167.249.181 GET /provenresults.htm - 80 - 72.30.142.169 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - smokefreetucson.com 200 0 0 8444 248 124
+2009-02-01 12:50:28 W3SVC99459315 ELIX1 72.167.249.181 GET /guidanceadvice.htm - 80 - 72.30.142.169 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - smokefreetucson.com 200 0 0 7448 249 109
+2009-02-01 12:53:48 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 66.249.71.186 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.aplttucson.com 200 0 0 3356 241 124
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2009-02-01 13:12:10
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2009-02-01 13:12:10 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 67.195.37.176 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.aplttucson.com 404 0 2 1791 195 62
+2009-02-01 13:12:10 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 67.195.37.176 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.aplttucson.com 200 0 0 16287 206 203
+2009-02-01 13:15:13 W3SVC99459315 ELIX1 72.167.249.181 GET /backupsupport.htm - 80 - 67.195.37.176 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.aplttucson.com 200 0 0 7398 223 124
+2009-02-01 13:16:49 W3SVC99459315 ELIX1 72.167.249.181 GET /provenresults.htm - 80 - 67.195.37.176 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.aplttucson.com 200 0 0 8444 223 124
+2009-02-01 13:16:59 W3SVC99459315 ELIX1 72.167.249.181 GET /loseweight.htm - 80 - 67.195.37.176 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.aplttucson.com 200 0 0 9254 243 187
+2009-02-01 13:17:09 W3SVC99459315 ELIX1 72.167.249.181 GET /guidanceadvice.htm - 80 - 67.195.37.176 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.aplttucson.com 200 0 0 7448 224 124
+2009-02-01 13:17:48 W3SVC99459315 ELIX1 72.167.249.181 GET /annepenman.htm - 80 - 67.195.37.176 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.aplttucson.com 200 0 0 9719 243 203
+2009-02-01 13:18:24 W3SVC99459315 ELIX1 72.167.249.181 GET /lasertherapy.htm - 80 - 67.195.37.176 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.aplttucson.com 200 0 0 8075 245 124
+2009-02-01 13:20:21 W3SVC99459315 ELIX1 72.167.249.181 GET /quitsmoking.htm - 80 - 67.195.37.176 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.aplttucson.com 200 0 0 7824 244 140
+2009-02-01 13:35:19 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 67.195.37.176 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.aplttucson.com 200 0 0 16232 215 187
+2009-02-01 13:38:36 W3SVC99459315 ELIX1 72.167.249.181 GET /takeaction.htm - 80 - 67.195.37.176 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.aplttucson.com 200 0 0 9169 243 187
+2009-02-01 13:48:40 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 66.249.71.167 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.smokefreetucson.com 404 0 2 1772 264 78
+2009-02-01 13:48:40 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 66.249.71.167 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.smokefreetucson.com 200 0 0 3416 237 109
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2009-02-01 14:06:56
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2009-02-01 14:06:56 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 208.115.111.243 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) - - www.aplttucson.com 404 0 2 1772 259 46
+2009-02-01 14:10:52 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 208.36.144.6 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - www.aplttucson.com 404 0 2 1791 200 31
+2009-02-01 14:20:53 W3SVC99459315 ELIX1 72.167.249.181 GET /favicon.ico - 80 - 75.164.40.54 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+FunWebProducts;++MSN+9.0;MSN+9.1;MSN+9.6;+MSNbQ002;+MSNmen-us;+MSNcOTH) - - www.smokefreetucson.com 404 0 2 1772 303 62
+2009-02-01 14:34:31 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 217.212.224.183 HTTP/1.0 psbot/0.1+(+http://www.picsearch.com/bot.html) - - www.aplttucson.com 404 0 2 1791 141 171
+2009-02-01 14:34:32 W3SVC99459315 ELIX1 72.167.249.181 GET /images/laserlady.jpg - 80 - 217.212.224.186 HTTP/1.0 psbot/0.1+(+http://www.picsearch.com/bot.html) - - www.aplttucson.com 200 0 0 6330 229 343
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2009-02-01 15:33:57
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2009-02-01 15:33:57 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 66.249.71.168 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.smokefreetucson.com 200 0 0 3356 246 140
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2009-02-01 16:41:22
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2009-02-01 16:41:22 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 208.115.111.243 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) - - www.aplttucson.com 404 0 2 1772 259 62
+2009-02-01 16:41:45 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 66.231.189.39 HTTP/1.0 Gigabot/3.0+(http://www.gigablast.com/spider.html) - - www.aplttucson.com 404 0 2 1791 293 31
+2009-02-01 16:41:45 W3SVC99459315 ELIX1 72.167.249.181 GET /lasertherapy.htm - 80 - 66.231.189.39 HTTP/1.0 Gigabot/3.0+(http://www.gigablast.com/spider.html) - - www.aplttucson.com 200 0 0 8075 299 78
+2009-02-01 16:44:37 W3SVC99459315 ELIX1 72.167.249.181 GET /annepenman.htm - 80 - 208.115.111.243 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) - - www.aplttucson.com 200 0 0 3061 263 93
+2009-02-01 16:45:01 W3SVC99459315 ELIX1 72.167.249.181 GET /backupsupport.htm - 80 - 208.115.111.243 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) - - www.aplttucson.com 200 0 0 2097 266 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2009-02-01 17:03:48
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2009-02-01 17:03:48 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 83.133.125.202 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+de) - http://www.BigFinder.de/ www.aplttucson.com 200 0 0 16287 188 828
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2009-02-01 18:35:19
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2009-02-01 18:35:19 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 72.30.81.155 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - aplttucson.com 404 0 2 1791 191 62
+2009-02-01 18:35:19 W3SVC99459315 ELIX1 72.167.249.181 GET /guidanceadvice.htm - 80 - 72.30.81.155 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - aplttucson.com 200 0 0 7448 244 109
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2009-02-01 18:57:43
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2009-02-01 18:57:43 W3SVC99459315 ELIX1 72.167.249.181 GET /favicon.ico - 80 - 75.164.40.54 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+FunWebProducts;++MSN+9.0;MSN+9.1;MSN+9.6;+MSNbQ002;+MSNmen-us;+MSNcOTH) - - www.smokefreetucson.com 404 0 2 1772 303 46
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2009-02-01 19:22:40
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2009-02-01 19:22:40 W3SVC99459315 ELIX1 72.167.249.181 GET /guidanceadvice.htm - 80 - 208.115.111.243 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) - - www.aplttucson.com 200 0 0 2091 267 46
+2009-02-01 19:23:02 W3SVC99459315 ELIX1 72.167.249.181 GET /lasertherapy.htm - 80 - 208.115.111.243 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) - - www.aplttucson.com 200 0 0 2290 265 31
+2009-02-01 19:23:06 W3SVC99459315 ELIX1 72.167.249.181 GET /loseweight.htm - 80 - 208.115.111.243 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) - - www.aplttucson.com 200 0 0 2663 263 46
+2009-02-01 19:23:10 W3SVC99459315 ELIX1 72.167.249.181 GET /provenresults.htm - 80 - 208.115.111.243 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) - - www.aplttucson.com 200 0 0 2408 266 46
+2009-02-01 19:23:16 W3SVC99459315 ELIX1 72.167.249.181 GET /quitsmoking.htm - 80 - 208.115.111.243 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) - - www.aplttucson.com 200 0 0 2261 264 46
+2009-02-01 19:23:20 W3SVC99459315 ELIX1 72.167.249.181 GET /takeaction.htm - 80 - 208.115.111.243 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) - - www.aplttucson.com 200 0 0 2614 263 46
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2009-02-01 20:03:39
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2009-02-01 20:03:39 W3SVC99459315 ELIX1 72.167.249.181 GET /favicon.ico - 80 - 71.215.106.93 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;++MSN+9.0;MSN+9.1;MSN+9.6;+MSNbQ002;+MSNmen-us;+MSNcOTH) - - www.smokefreetucson.com 404 0 2 1772 306 46
+2009-02-01 20:10:17 W3SVC99459315 ELIX1 72.167.249.181 GET /favicon.ico - 80 - 207.200.116.133 HTTP/1.1 ee://aol/http - - smokefreetucson.com 404 0 2 1772 298 31
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2009-02-01 20:33:10
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2009-02-01 20:33:10 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 219.142.53.22 HTTP/1.0 librabot/1.0+(+http://search.msn.com/msnbot.htm) - - www.smokefreetucson.com 404 0 2 1791 165 312
+2009-02-01 20:33:11 W3SVC99459315 ELIX1 72.167.249.181 GET /guidanceadvice.htm - 80 - 219.142.53.30 HTTP/1.0 librabot/1.0+(+http://search.msn.com/msnbot.htm) - - www.smokefreetucson.com 200 0 0 7448 212 874
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2009-02-01 22:37:42
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2009-02-01 22:37:42 W3SVC99459315 ELIX1 72.167.249.181 GET /annepenman.htm - 80 - 66.231.189.39 HTTP/1.0 Gigabot/3.0+(http://www.gigablast.com/spider.html) - - www.aplttucson.com 200 0 0 9719 297 109

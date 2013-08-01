@@ -1,0 +1,234 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 01:22:58
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 01:22:58 W3SVC99459315 ELIX1 72.167.249.181 GET /takeaction.htm - 80 - 67.195.37.155 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.smokefreetucson.com 200 0 0 9169 225 203
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 02:45:56
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 02:45:56 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 67.195.37.155 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.smokefreetucson.com 404 0 2 1791 200 78
+2008-12-30 02:45:56 W3SVC99459315 ELIX1 72.167.249.181 GET /quitsmoking.htm - 80 - 67.195.37.155 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.smokefreetucson.com 200 0 0 7824 226 124
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 03:05:58
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 03:05:58 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 66.150.153.198 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+Avant+Browser;+SV1;+Avant+Browser;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+yplus+4.1.00b) - - www.aplttucson.com 200 0 0 16268 414 46
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 03:43:22
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 03:43:22 W3SVC99459315 ELIX1 72.167.249.181 GET /takeaction.htm - 80 - 72.201.234.37 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727) - - www.aplttucson.com 200 0 0 2614 440 46
+2008-12-30 03:43:24 W3SVC99459315 ELIX1 72.167.249.181 GET /images/topbar5.gif - 80 - 72.201.234.37 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727) - http://www.aplttucson.com/takeaction.htm www.aplttucson.com 200 0 0 21274 334 328
+2008-12-30 03:43:24 W3SVC99459315 ELIX1 72.167.249.181 GET /images/saundamartyanne.jpg - 80 - 72.201.234.37 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727) - http://www.aplttucson.com/takeaction.htm www.aplttucson.com 200 0 0 16172 342 312
+2008-12-30 03:43:24 W3SVC99459315 ELIX1 72.167.249.181 GET /favicon.ico - 80 - 72.201.234.37 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727) - - www.aplttucson.com 404 0 2 1772 240 46
+2008-12-30 03:43:42 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 64.1.215.162 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - www.smokefreetucson.com 404 0 2 1791 205 31
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 04:12:11
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 04:12:11 W3SVC99459315 ELIX1 72.167.249.181 GET /favicon.ico - 80 - 71.220.134.89 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+FunWebProducts;+.NET+CLR+1.1.4322;+InfoPath.2;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;++MSN+9.0;MSN+9.1;MSN+9.6;+MSNbQ002;+MSNmen-us;+MSNcOTH) - - www.smokefreetucson.com 404 0 2 1772 398 93
+2008-12-30 04:20:11 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 208.80.194.45 HTTP/1.0 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Tablet+PC+1.7) - - www.smokefreetucson.com 200 0 0 16292 171 62
+2008-12-30 04:33:45 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 216.163.103.28 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.aplttucson.com 200 0 0 16268 154 1906
+2008-12-30 04:39:52 W3SVC99459315 ELIX1 72.167.249.181 GET /loseweight.htm - 80 - 98.110.169.156 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1) - http://search.live.com/results.aspx?q=WHEIGH+LOSE+WITH+LASER&form=QBRE www.aplttucson.com 200 0 0 2663 470 93
+2008-12-30 04:39:52 W3SVC99459315 ELIX1 72.167.249.181 GET /images/topbar5.gif - 80 - 98.110.169.156 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1) - http://www.aplttucson.com/loseweight.htm www.aplttucson.com 200 0 0 21274 283 437
+2008-12-30 04:39:52 W3SVC99459315 ELIX1 72.167.249.181 GET /images/weighttreatement.jpg - 80 - 98.110.169.156 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1) - http://www.aplttucson.com/loseweight.htm www.aplttucson.com 200 0 0 17494 292 374
+2008-12-30 04:39:54 W3SVC99459315 ELIX1 72.167.249.181 GET /favicon.ico - 80 - 98.110.169.156 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1) - - www.aplttucson.com 404 0 2 1772 201 93
+2008-12-30 04:51:06 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 72.30.78.224 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.aplttucson.com 404 0 2 1791 195 62
+2008-12-30 04:51:06 W3SVC99459315 ELIX1 72.167.249.181 GET /backupsupport.htm - 80 - 72.30.78.224 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.aplttucson.com 200 0 0 7398 237 124
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 05:21:03
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 05:21:03 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 208.80.194.48 HTTP/1.0 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+1.0.3705;+ZangoToolbar+4.8.2) - - smokefreetucson.com 200 0 0 16288 172 78
+2008-12-30 05:28:48 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 38.100.8.51 HTTP/1.1 panscient.com - - www.aplttucson.com 404 0 2 1772 167 78
+2008-12-30 05:28:48 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 38.100.8.51 HTTP/1.1 panscient.com - - www.aplttucson.com 200 0 0 3411 189 140
+2008-12-30 05:28:50 W3SVC99459315 ELIX1 72.167.249.181 GET /takeaction.htm - 80 - 38.100.8.51 HTTP/1.1 panscient.com - - www.aplttucson.com 200 0 0 2614 203 78
+2008-12-30 05:28:51 W3SVC99459315 ELIX1 72.167.249.181 GET /backupsupport.htm - 80 - 38.100.8.51 HTTP/1.1 panscient.com - - www.aplttucson.com 200 0 0 2097 206 78
+2008-12-30 05:28:52 W3SVC99459315 ELIX1 72.167.249.181 GET /loseweight.htm - 80 - 38.100.8.51 HTTP/1.1 panscient.com - - www.aplttucson.com 200 0 0 2663 203 62
+2008-12-30 05:28:54 W3SVC99459315 ELIX1 72.167.249.181 GET /lasertherapy.htm - 80 - 38.100.8.51 HTTP/1.1 panscient.com - - www.aplttucson.com 200 0 0 2290 205 78
+2008-12-30 05:28:55 W3SVC99459315 ELIX1 72.167.249.181 GET /guidanceadvice.htm - 80 - 38.100.8.51 HTTP/1.1 panscient.com - - www.aplttucson.com 200 0 0 2091 207 78
+2008-12-30 05:28:56 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 38.100.8.51 HTTP/1.1 panscient.com - - www.aplttucson.com 200 0 0 3356 198 62
+2008-12-30 05:28:58 W3SVC99459315 ELIX1 72.167.249.181 GET /annepenman.htm - 80 - 38.100.8.51 HTTP/1.1 panscient.com - - www.aplttucson.com 200 0 0 3061 203 78
+2008-12-30 05:29:00 W3SVC99459315 ELIX1 72.167.249.181 GET /quitsmoking.htm - 80 - 38.100.8.51 HTTP/1.1 panscient.com - - www.aplttucson.com 200 0 0 2261 204 78
+2008-12-30 05:29:01 W3SVC99459315 ELIX1 72.167.249.181 GET /provenresults.htm - 80 - 38.100.8.51 HTTP/1.1 panscient.com - - www.aplttucson.com 200 0 0 2408 206 78
+2008-12-30 05:37:28 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 72.30.78.224 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - aplttucson.com 404 0 2 1791 191 62
+2008-12-30 05:37:30 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 72.30.78.224 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - aplttucson.com 200 0 0 16283 216 171
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 06:26:59
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 06:26:59 W3SVC99459315 ELIX1 72.167.249.181 GET /provenresults.htm - 80 - 72.30.78.224 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - aplttucson.com 200 0 0 8444 233 125
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 07:18:06
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 07:18:06 W3SVC99459315 ELIX1 72.167.249.181 GET /quitsmoking.htm - 80 - 72.30.78.224 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.aplttucson.com 200 0 0 7824 235 125
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 08:35:56
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 08:35:56 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 72.30.142.233 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - smokefreetucson.com 404 0 2 1791 196 62
+2008-12-30 08:35:57 W3SVC99459315 ELIX1 72.167.249.181 GET /backupsupport.htm - 80 - 72.30.142.233 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - smokefreetucson.com 200 0 0 7398 238 109
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 09:11:14
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 09:11:14 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 67.195.37.95 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.aplttucson.com 404 0 2 1791 195 78
+2008-12-30 09:11:14 W3SVC99459315 ELIX1 72.167.249.181 GET /loseweight.htm - 80 - 67.195.37.95 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.aplttucson.com 200 0 0 9254 401 187
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 11:55:45
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 11:55:45 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 74.6.8.89 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.smokefreetucson.com 404 0 2 1791 200 62
+2008-12-30 11:55:45 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 74.6.8.89 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.smokefreetucson.com 200 0 0 16232 234 171
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 13:16:35
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 13:16:35 W3SVC99459315 ELIX1 72.167.249.181 GET /lasertherapy.htm - 80 - 72.30.142.233 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - smokefreetucson.com 200 0 0 8075 237 124
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 13:46:18
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 13:46:18 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 38.100.8.51 HTTP/1.1 panscient.com - - www.smokefreetucson.com 404 0 2 1772 172 78
+2008-12-30 13:46:18 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 38.100.8.51 HTTP/1.1 panscient.com - - www.smokefreetucson.com 200 0 0 3416 194 156
+2008-12-30 13:46:19 W3SVC99459315 ELIX1 72.167.249.181 GET /annepenman.htm - 80 - 38.100.8.51 HTTP/1.1 panscient.com - - www.smokefreetucson.com 200 0 0 3061 208 62
+2008-12-30 13:46:20 W3SVC99459315 ELIX1 72.167.249.181 GET /loseweight.htm - 80 - 38.100.8.51 HTTP/1.1 panscient.com - - www.smokefreetucson.com 200 0 0 2663 208 78
+2008-12-30 13:46:22 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 38.100.8.51 HTTP/1.1 panscient.com - - www.smokefreetucson.com 200 0 0 3356 203 78
+2008-12-30 13:46:23 W3SVC99459315 ELIX1 72.167.249.181 GET /backupsupport.htm - 80 - 38.100.8.51 HTTP/1.1 panscient.com - - www.smokefreetucson.com 200 0 0 2097 211 78
+2008-12-30 13:46:24 W3SVC99459315 ELIX1 72.167.249.181 GET /lasertherapy.htm - 80 - 38.100.8.51 HTTP/1.1 panscient.com - - www.smokefreetucson.com 200 0 0 2290 210 62
+2008-12-30 13:46:25 W3SVC99459315 ELIX1 72.167.249.181 GET /guidanceadvice.htm - 80 - 38.100.8.51 HTTP/1.1 panscient.com - - www.smokefreetucson.com 200 0 0 2091 212 62
+2008-12-30 13:46:26 W3SVC99459315 ELIX1 72.167.249.181 GET /quitsmoking.htm - 80 - 38.100.8.51 HTTP/1.1 panscient.com - - www.smokefreetucson.com 200 0 0 2261 209 62
+2008-12-30 13:46:27 W3SVC99459315 ELIX1 72.167.249.181 GET /takeaction.htm - 80 - 38.100.8.51 HTTP/1.1 panscient.com - - www.smokefreetucson.com 200 0 0 2614 208 78
+2008-12-30 13:46:28 W3SVC99459315 ELIX1 72.167.249.181 GET /provenresults.htm - 80 - 38.100.8.51 HTTP/1.1 panscient.com - - www.smokefreetucson.com 200 0 0 2408 211 78
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 14:23:54
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 14:23:54 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 67.195.37.95 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.aplttucson.com 404 0 2 1791 195 62
+2008-12-30 14:23:54 W3SVC99459315 ELIX1 72.167.249.181 GET /backupsupport.htm - 80 - 67.195.37.95 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.aplttucson.com 200 0 0 7398 404 124
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 14:48:35
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 14:48:35 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 72.30.78.224 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - aplttucson.com 404 0 2 1791 191 62
+2008-12-30 14:48:35 W3SVC99459315 ELIX1 72.167.249.181 GET /guidanceadvice.htm - 80 - 72.30.78.224 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - aplttucson.com 200 0 0 7448 234 109
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 15:18:42
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 15:18:42 W3SVC99459315 ELIX1 72.167.249.181 GET /favicon.ico - 80 - 71.215.116.118 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;++MSN+9.0;MSN+9.1;MSN+9.6;+MSNbQ002;+MSNmen-us;+MSNcOTH) - - www.smokefreetucson.com 404 0 2 1772 306 62
+2008-12-30 15:31:44 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 208.80.194.36 HTTP/1.0 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+{CD19C988-0D1A-3B07-15B4-8AD077699A8D};+.NET+CLR+1.1.4322) - - aplttucson.com 200 0 0 16283 163 93
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 15:56:25
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 15:56:25 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 208.80.194.120 HTTP/1.0 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+FunWebProducts;+.NET+CLR+1.0.3705;+RRHSO_BLD1;+RRHSO_BLD1) - - www.aplttucson.com 200 0 0 16287 167 78
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 16:14:29
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 16:14:28 W3SVC99459315 ELIX1 72.167.249.181 GET /loseweight.htm - 80 - 72.30.142.233 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - smokefreetucson.com 200 0 0 9254 235 171
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 16:31:54
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 16:31:54 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 204.246.129.196 HTTP/1.1 Mozilla/4.0 - - www.smokefreetucson.com 200 0 0 16273 213 156
+2008-12-30 16:31:54 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://aplttucson.reachlocal.com/coupon/?scid=205354&cid=270602&tc=08123008313884657&kw=802603&dynamic_proxy=1&primary_serv=www.smokefreetucson.com&se_refer=http%253A%252F%252Fwww.search.com%252Fsearch%253Fq%253Dquit%252Bsmoking www.smokefreetucson.com 200 0 0 3416 771 203
+2008-12-30 16:31:54 W3SVC99459315 ELIX1 72.167.249.181 GET /images/spacer.gif - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 269 391 62
+2008-12-30 16:31:54 W3SVC99459315 ELIX1 72.167.249.181 GET /images/topbar5.gif - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 21274 392 187
+2008-12-30 16:31:54 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r2_c1.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 2325 400 78
+2008-12-30 16:31:54 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r2_c4.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 14307 400 78
+2008-12-30 16:31:54 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r1_c1.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 9503 400 187
+2008-12-30 16:31:54 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r2_c10.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 2101 401 78
+2008-12-30 16:31:54 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r3_c1.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 4025 400 78
+2008-12-30 16:31:54 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r4_c4.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 2625 400 78
+2008-12-30 16:31:54 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r4_c9.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 3567 400 78
+2008-12-30 16:31:54 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r5_c1.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 5255 400 62
+2008-12-30 16:31:54 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r4_c10.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 1426 401 78
+2008-12-30 16:31:54 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r5_c7.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 4598 400 62
+2008-12-30 16:31:54 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r5_c11.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 1101 401 62
+2008-12-30 16:31:56 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r6_c6.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 1445 400 78
+2008-12-30 16:31:56 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r6_c1.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 985 400 78
+2008-12-30 16:31:56 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r7_c1.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 897 400 62
+2008-12-30 16:31:56 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r8_c1.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 567 400 62
+2008-12-30 16:31:56 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r8_c5.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 936 400 78
+2008-12-30 16:31:56 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r9_c1.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 785 400 62
+2008-12-30 16:31:56 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r10_c1.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 1082 401 62
+2008-12-30 16:31:56 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r11_c1.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 922 401 78
+2008-12-30 16:31:56 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r12_c1.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 581 401 78
+2008-12-30 16:31:56 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r12_c5.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 960 401 62
+2008-12-30 16:31:56 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r13_c1.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 855 401 62
+2008-12-30 16:31:56 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r14_c1.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 1066 401 78
+2008-12-30 16:31:56 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r15_c8.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 747 401 109
+2008-12-30 16:31:56 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r15_c1.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 867 401 125
+2008-12-30 16:31:56 W3SVC99459315 ELIX1 72.167.249.181 GET /favicon.ico - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - - www.smokefreetucson.com 404 0 2 1772 319 46
+2008-12-30 16:32:57 W3SVC99459315 ELIX1 72.167.249.181 GET /lasertherapy.htm - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/ www.smokefreetucson.com 200 0 0 2290 590 62
+2008-12-30 16:32:57 W3SVC99459315 ELIX1 72.167.249.181 GET /images/laserlady.jpg - 80 - 209.22.104.17 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+InfoPath.1;+.NET+CLR+2.0.50727) - http://www.smokefreetucson.com/lasertherapy.htm www.smokefreetucson.com 200 0 0 6311 410 78
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 18:38:27
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 18:38:27 W3SVC99459315 ELIX1 72.167.249.181 GET /lasertherapy.htm - 80 - 70.62.214.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648) - http://search.msn.com/results.aspx?q=lasar+treatment+for+smoking+cessation&FORM=MSNH11 www.aplttucson.com 200 0 0 2290 681 93
+2008-12-30 18:38:27 W3SVC99459315 ELIX1 72.167.249.181 GET /images/laserlady.jpg - 80 - 70.62.214.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648) - http://www.aplttucson.com/lasertherapy.htm www.aplttucson.com 200 0 0 6311 373 265
+2008-12-30 18:38:27 W3SVC99459315 ELIX1 72.167.249.181 GET /favicon.ico - 80 - 70.62.214.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648) - - www.aplttucson.com 404 0 2 1772 287 78
+2008-12-30 18:38:27 W3SVC99459315 ELIX1 72.167.249.181 GET /images/topbar5.gif - 80 - 70.62.214.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648) - http://www.aplttucson.com/lasertherapy.htm www.aplttucson.com 200 0 0 21274 371 468
+2008-12-30 18:39:28 W3SVC99459315 ELIX1 72.167.249.181 GET /quitsmoking.htm - 80 - 70.62.214.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648) - http://www.aplttucson.com/lasertherapy.htm www.aplttucson.com 200 0 0 2261 636 78
+2008-12-30 18:39:28 W3SVC99459315 ELIX1 72.167.249.181 GET /images/nosmokingsign.jpg - 80 - 70.62.214.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648) - http://www.aplttucson.com/quitsmoking.htm www.aplttucson.com 200 0 0 18059 376 640
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 19:06:03
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 19:06:03 W3SVC99459315 ELIX1 72.167.249.181 GET /favicon.ico - 80 - 71.220.156.25 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;++MSN+9.0;MSN+9.1;MSN+9.6;+MSNbQ002;+MSNmen-us;+MSNcOTH) - - smokefreetucson.com 404 0 2 1772 342 78
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 21:11:35
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 21:11:35 W3SVC99459315 ELIX1 72.167.249.181 GET /loseweight.htm - 80 - 67.195.37.155 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.smokefreetucson.com 200 0 0 9254 225 203
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 21:34:07
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /index.htm - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - - www.smokefreetucson.com 304 0 0 274 326 109
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/topbar5.gif - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 411 31
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/spacer.gif - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 410 46
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r1_c1.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 419 93
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r2_c1.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 419 46
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r2_c4.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 419 31
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r2_c10.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 420 46
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r3_c1.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 419 46
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r4_c4.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 419 31
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r4_c9.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 419 31
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r4_c10.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 420 46
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r5_c1.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 419 46
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r5_c7.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 419 31
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r5_c11.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 420 31
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r6_c1.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 419 46
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r6_c6.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 419 46
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r7_c1.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 419 31
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r8_c1.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 419 31
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r8_c5.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 419 46
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r9_c1.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 419 46
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r10_c1.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 420 31
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r11_c1.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 420 31
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r12_c1.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 420 46
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r12_c5.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 420 31
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r13_c1.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 420 31
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r14_c1.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 420 46
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r15_c8.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 420 234
+2008-12-30 21:34:07 W3SVC99459315 ELIX1 72.167.249.181 GET /images/indexlogo_r15_c1.jpg - 80 - 204.68.32.6 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+InfoPath.2) - http://www.smokefreetucson.com/ www.smokefreetucson.com 304 0 0 191 420 265
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 22:01:49
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 22:01:49 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 208.36.144.6 HTTP/1.0 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) - - www.aplttucson.com 404 0 2 1791 200 15
+2008-12-30 22:08:19 W3SVC99459315 ELIX1 72.167.249.181 GET /takeaction.htm - 80 - 138.27.1.3 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648;+InfoPath.1) - - www.aplttucson.com 200 0 0 2614 656 93
+2008-12-30 22:08:19 W3SVC99459315 ELIX1 72.167.249.181 GET /images/topbar5.gif - 80 - 138.27.1.3 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648;+InfoPath.1) - http://www.aplttucson.com/takeaction.htm www.aplttucson.com 200 0 0 21274 443 265
+2008-12-30 22:08:20 W3SVC99459315 ELIX1 72.167.249.181 GET /images/saundamartyanne.jpg - 80 - 138.27.1.3 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648;+InfoPath.1) - http://www.aplttucson.com/takeaction.htm www.aplttucson.com 200 0 0 16172 451 328
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2008-12-30 23:05:31
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2008-12-30 23:05:31 W3SVC99459315 ELIX1 72.167.249.181 GET /robots.txt - 80 - 72.30.78.224 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.aplttucson.com 404 0 2 1791 195 62
+2008-12-30 23:05:31 W3SVC99459315 ELIX1 72.167.249.181 GET /takeaction.htm - 80 - 72.30.78.224 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - www.aplttucson.com 200 0 0 9169 234 171

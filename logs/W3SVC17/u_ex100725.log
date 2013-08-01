@@ -1,0 +1,150 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-25 00:39:47
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-25 00:39:47 W3SVC17 67.222.136.138 GET / - 80 - 123.125.66.130 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 2920 150 236
+2010-07-25 00:39:57 W3SVC17 67.222.136.138 GET / - 80 - 220.181.7.64 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 2920 150 224
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-25 01:17:53
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-25 01:17:53 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 66.249.71.180 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 264 23
+2010-07-25 01:17:53 W3SVC17 67.222.136.138 GET /backupsupport.htm - 80 - 66.249.71.180 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0 210 304 62
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-25 02:04:09
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-25 02:04:09 W3SVC17 67.222.136.138 GET / - 80 - 208.80.193.39 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SV1;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.04320) 200 0 0 16623 181 132
+2010-07-25 02:18:29 W3SVC17 67.222.136.138 GET /backupsupport.htm - 80 - 77.88.25.28 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 200 0 0 7400 294 373
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-25 02:58:18
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-25 02:58:18 W3SVC17 67.222.136.138 GET / - 80 - 69.147.115.72 - 200 0 0 16604 58 111
+2010-07-25 02:58:18 W3SVC17 67.222.136.138 GET /favicon.ico - 80 - 69.147.115.72 - 404 0 2 1405 69 37
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-25 03:40:29
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-25 03:40:29 W3SVC17 67.222.136.138 GET / - 80 - 123.125.66.125 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 2920 150 330
+2010-07-25 03:40:50 W3SVC17 67.222.136.138 GET / - 80 - 220.181.7.130 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 2920 150 220
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-25 04:17:51
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-25 04:17:51 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 404 0 2 1405 198 184
+2010-07-25 04:17:51 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 404 0 2 1405 194 174
+2010-07-25 04:17:53 W3SVC17 67.222.136.138 GET / - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 16604 238 348
+2010-07-25 04:17:54 W3SVC17 67.222.136.138 GET / - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 3358 234 196
+2010-07-25 04:17:54 W3SVC17 67.222.136.138 GET / - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 3358 238 174
+2010-07-25 04:17:55 W3SVC17 67.222.136.138 GET / - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 3358 234 175
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-25 05:02:56
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-25 05:02:56 W3SVC17 67.222.136.138 GET /images/annepenman1.jpg - 80 - 66.249.71.180 Googlebot-Image/1.0 304 0 0 210 256 48
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-25 06:47:37
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-25 06:47:37 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 123.125.66.23 Baiduspider+(+http://www.baidu.com/search/spider.htm) 404 0 2 1424 202 311
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-25 07:04:50
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-25 07:04:50 W3SVC17 67.222.136.138 GET / - 80 - 112.64.20.150 Mozilla/4.0+(Mozilla/5.0+(Windows;+U;+MSIE+7.0;+Windows+NT+6.0;+en-US) 200 0 0 16604 138 1828
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-25 07:41:02
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-25 07:41:02 W3SVC17 67.222.136.138 GET /guidanceadvice.htm - 80 - 66.249.71.180 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 7450 255 61
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-25 09:31:59
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-25 09:31:58 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 119.63.198.41 Baiduspider+(+http://www.baidu.com/search/spider.htm) 404 0 2 1424 206 149
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-25 11:39:56
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-25 11:39:56 W3SVC17 67.222.136.138 GET / - 80 - 123.125.66.90 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 2920 150 237
+2010-07-25 11:40:00 W3SVC17 67.222.136.138 GET / - 80 - 64.56.66.178 Wget/1.9+cvs-stable+(Red+Hat+modified) 200 0 0 16623 121 109
+2010-07-25 11:41:02 W3SVC17 67.222.136.138 GET / - 80 - 220.181.7.58 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 2920 150 341
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-25 12:46:55
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-25 12:46:55 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 67.195.112.112 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 200 56
+2010-07-25 12:46:55 W3SVC17 67.222.136.138 GET /takeaction.htm - 80 - 67.195.112.112 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 9189 377 179
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-25 13:02:16
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-25 13:02:16 W3SVC17 67.222.136.138 GET /images/indexlogo_r2_c4.jpg - 80 - 66.249.71.180 Googlebot-Image/1.0 304 0 0 210 260 43
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-25 13:48:34
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-25 13:48:34 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 67.218.116.168 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) 404 0 2 1424 205 45
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-25 14:43:48
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-25 14:43:48 W3SVC17 67.222.136.138 GET / - 80 - 123.125.66.72 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 2920 150 296
+2010-07-25 14:45:11 W3SVC17 67.222.136.138 GET / - 80 - 220.181.7.90 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 2920 150 350
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-25 15:59:00
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-25 15:59:00 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 66.249.71.102 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 260 22
+2010-07-25 15:59:00 W3SVC17 67.222.136.138 GET / - 80 - 66.249.71.102 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0 210 283 63
+2010-07-25 16:05:10 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 67.218.116.162 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) 404 0 2 1424 200 45
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-25 17:15:16
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-25 17:15:16 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 64.246.165.190 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) 404 0 2 1424 291 45
+2010-07-25 17:15:16 W3SVC17 67.222.136.138 GET / - 80 - 64.246.165.190 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) 200 0 0 16604 483 135
+2010-07-25 17:19:29 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 178.63.9.74 Domnutch-Bot/Nutch-1.0+(Domnutch;+http://www.Nutch.de/) 404 0 2 1424 471 126
+2010-07-25 17:19:29 W3SVC17 67.222.136.138 GET / - 80 - 178.63.9.74 Domnutch-Bot/Nutch-1.0+(Domnutch;+http://www.Nutch.de/) 200 0 0 16623 461 386
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-25 18:05:23
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-25 18:05:23 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 216.129.119.44 Mozilla/5.0+(Twiceler-0.9+http://www.cuil.com/twiceler/robot.html) 404 0 2 1424 201 46
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-25 18:30:43
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-25 18:30:43 W3SVC17 67.222.136.138 GET /favicon.ico - 80 - 184.99.158.107 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;++MSN+9.0;MSN+9.1;MSN+9.6;+MSNbQ002;+MSNmen-us;+MSNcOTH) 404 0 2 1405 306 548
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-25 20:00:44
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-25 20:00:44 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 77.88.25.28 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 404 0 2 1405 182 165
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-25 20:56:14
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-25 20:56:13 W3SVC17 67.222.136.138 GET / - 80 - 85.17.211.164 Mozilla/5.0+(compatible;+Purebot/1.1;++http://www.puritysearch.net/) 200 0 0 16604 146 415
+2010-07-25 20:56:16 W3SVC17 67.222.136.138 GET /lasertherapy.htm - 80 - 85.17.211.164 Mozilla/5.0+(compatible;+Purebot/1.1;++http://www.puritysearch.net/) 200 0 0 8075 162 275
+2010-07-25 20:56:18 W3SVC17 67.222.136.138 GET /quitsmoking.htm - 80 - 85.17.211.164 Mozilla/5.0+(compatible;+Purebot/1.1;++http://www.puritysearch.net/) 200 0 0 7824 161 281
+2010-07-25 20:56:20 W3SVC17 67.222.136.138 GET /loseweight.htm - 80 - 85.17.211.164 Mozilla/5.0+(compatible;+Purebot/1.1;++http://www.puritysearch.net/) 200 0 0 9254 160 405
+2010-07-25 20:56:23 W3SVC17 67.222.136.138 GET /backupsupport.htm - 80 - 85.17.211.164 Mozilla/5.0+(compatible;+Purebot/1.1;++http://www.puritysearch.net/) 200 0 0 7400 163 269
+2010-07-25 20:56:25 W3SVC17 67.222.136.138 GET /guidanceadvice.htm - 80 - 85.17.211.164 Mozilla/5.0+(compatible;+Purebot/1.1;++http://www.puritysearch.net/) 200 0 0 7450 164 280
+2010-07-25 20:56:28 W3SVC17 67.222.136.138 GET /takeaction.htm - 80 - 85.17.211.164 Mozilla/5.0+(compatible;+Purebot/1.1;++http://www.puritysearch.net/) 200 0 0 9170 160 409
+2010-07-25 20:56:31 W3SVC17 67.222.136.138 GET /annepenman.htm - 80 - 85.17.211.164 Mozilla/5.0+(compatible;+Purebot/1.1;++http://www.puritysearch.net/) 200 0 0 9721 160 398
+2010-07-25 20:56:34 W3SVC17 67.222.136.138 GET /index.htm - 80 - 85.17.211.164 Mozilla/5.0+(compatible;+Purebot/1.1;++http://www.puritysearch.net/) 200 0 0 16604 155 400
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-25 21:20:41
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-25 21:20:41 W3SVC17 67.222.136.138 GET /robots.txt - 80 - 207.46.204.185 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 404 0 64 0 219 26
+2010-07-25 21:27:38 W3SVC17 67.222.136.138 GET /index.htm - 80 - 207.46.204.185 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 200 0 0 16604 231 91
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-25 23:43:01
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-25 23:43:01 W3SVC17 67.222.136.138 GET / - 80 - 220.181.7.55 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 2920 154 239
+2010-07-25 23:44:52 W3SVC17 67.222.136.138 GET / - 80 - 123.125.66.120 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 1460 154 232
+2010-07-25 23:44:58 W3SVC17 67.222.136.138 GET / - 80 - 70.36.101.58 Wget/1.9+cvs-stable+(Red+Hat+modified) 200 0 0 16623 125 115
